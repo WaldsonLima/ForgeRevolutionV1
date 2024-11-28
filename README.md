@@ -7,4 +7,4 @@ Wiki do código: https://wiki.bedrock.dev/
 
 Fazer pixel art: https://www.pixilart.com/
 
-Achar nome das variáveis dos itens: https://minecraftitemids.com/
+Variáveis dos itens: https://minecraftitemids.com/
