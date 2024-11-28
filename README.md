@@ -8,3 +8,5 @@ Wiki do código: https://wiki.bedrock.dev/
 Fazer pixel art: https://www.pixilart.com/
 
 Variáveis dos itens: https://minecraftitemids.com/
+
+Fórum de bugs Mojang: https://bugs.mojang.com/issues/
