@@ -1,7 +1,7 @@
 # ForgeRevolutionV1
 Repositório destinado à organização do add-on Forge Revolution V1
 
-#Links úteis:
+# Links úteis:
 
 Wiki do código: https://wiki.bedrock.dev/
 
