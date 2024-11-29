@@ -1,0 +1,17 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "ForgeRevolution",
+        "description": "pack.description",
+        "uuid": "ce440692-9fa7-4fb2-b9fd-5a23bcb6b61a",
+        "version": [1, 0, 0],
+        "min_engine_version": [1, 16, 0]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "a6c532f4-bae6-4c70-8e94-5345fff419df",
+            "version": [1, 0, 0]
+        }
+    ]
+}

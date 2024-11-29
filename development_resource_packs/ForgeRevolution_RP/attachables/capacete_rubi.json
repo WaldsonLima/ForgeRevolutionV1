@@ -1,0 +1,23 @@
+{
+    "format_version": "1.21.44",
+    "minecraft:attachable": {
+        "description": {
+            "identifier": "wiki:capacete_rubi",
+            "materials": {
+                "default": "armor",
+                "enchanted": "armor_enchanted"
+            },
+            "textures": {
+                "default": "textures/entity/attachable/teste_rubi",
+                "enchanted": "textures/misc/capacete_rubi"
+            },
+            "geometry": {
+                "default": "geometry.player.armor.helmet"
+            },
+            "scripts": {
+                "parent_setup": "v.chest_layer_visible = 0.0;"
+            },
+            "render_controllers": ["controller.render.armor"]
+        }
+    }
+}

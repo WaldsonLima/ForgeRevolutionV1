@@ -1,0 +1,21 @@
+{
+    "resource_pack_name": "rubi",
+    "texture_name": "atlas.items",
+    "texture_data": {
+        "rubi": {
+            "textures": "textures/items/rubi"
+        },
+        "espada_rubi": {
+            "textures": "textures/items/pauVeloz"
+        },
+        "barrinha": {
+            "textures": "textures/items/barrinha"
+        },
+        "cereais": {
+            "textures": "textures/items/cereais"
+        },
+        "capacete_rubi": {
+            "textures": "textures/items/capacete_rubi"
+        }
+    }
+}

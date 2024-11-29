@@ -1,0 +1,26 @@
+{
+	"format_version": "1.21.44",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "wiki:rubi"
+		},
+		"tags": ["crafting_table"],
+		"pattern": ["e", "E"],
+        "key": {
+            "E": {
+                "item": "minecraft:blaze_powder"
+            },
+            "e": {
+                "item": "minecraft:iron_ingot"
+            }
+        },
+        "result": {
+            "item": "wiki:rubi"
+        },
+        "unlock": [
+            {
+                "item": "minecraft:iron_ingot"
+            }
+        ]
+	}
+}

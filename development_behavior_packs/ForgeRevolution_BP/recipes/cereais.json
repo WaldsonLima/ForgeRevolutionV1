@@ -1,0 +1,11 @@
+{
+	"format_version": "1.21.44",
+	"minecraft:recipe_furnace": {
+		"description": {
+			"identifier": "wiki:cereais"
+		},
+		"tags": ["furnace"],
+		"input": "minecraft:wheat_seeds",
+		"output": "wiki:cereais"
+	}
+}

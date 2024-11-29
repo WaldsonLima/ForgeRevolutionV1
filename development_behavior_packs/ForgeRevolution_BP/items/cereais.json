@@ -1,0 +1,20 @@
+{
+    "format_version": "1.21.44",
+    "minecraft:item": {
+        "description": {
+            "identifier": "wiki:cereais",
+            "menu_category": {
+                "category": "items"
+            }
+        },
+        "components": {
+            "minecraft:icon": "cereais",
+            "minecraft:display_name": {
+                "value": "Cereais"
+            },
+            "minecraft:max_stack_size": {
+                "value": 64
+            }
+        }
+    }
+}

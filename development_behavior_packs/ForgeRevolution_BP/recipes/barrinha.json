@@ -1,0 +1,28 @@
+{
+	"format_version": "1.21.44",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "wiki:barrinha"
+		},
+		"tags": ["crafting_table"],
+		"pattern": [
+            "xz"
+        ],
+        "key": {
+            "x": {
+                "item": "wiki:cereais"
+            },
+            "z": {
+                "item": "wiki:cereais"
+            }
+        },
+        "result": {
+            "item": "wiki:barrinha"
+        },
+        "unlock": [
+            {
+                "item": "wiki:cereais"
+            }
+        ]
+	}
+}
