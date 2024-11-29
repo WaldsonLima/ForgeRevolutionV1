@@ -9,6 +9,12 @@ Fazer pixel art: https://www.pixilart.com/
 
 Variáveis dos itens: https://minecraftitemids.com/
 
+Crafting dos itens: https://crafting.thedestruc7i0n.ca/
+
+Advancements do Minecraft: https://advancements.thedestruc7i0n.ca/
+
 Fórum de bugs Mojang: https://bugs.mojang.com/issues/
 
 Documentação do Minecraft: https://learn.microsoft.com/pt-br/minecraft/creator/?view=minecraft-bedrock-stable
+
+Documentação do Minecraft (by destruc7i0n): https://bedrock.dev/
