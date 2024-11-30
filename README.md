@@ -18,3 +18,5 @@ Fórum de bugs Mojang: https://bugs.mojang.com/issues/
 Documentação do Minecraft: https://learn.microsoft.com/pt-br/minecraft/creator/?view=minecraft-bedrock-stable
 
 Documentação do Minecraft (by destruc7i0n): https://bedrock.dev/
+
+Gerador de UUID: https://www.uuidgenerator.net/version4
