@@ -1,0 +1,26 @@
+{
+	"format_version": "1.21.44",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "wiki:corindo"
+		},
+		"tags": ["crafting_table"],
+		"pattern": ["e", "E"],
+        "key": {
+            "E": {
+                "item": "minecraft:copper_ingot"
+            },
+            "e": {
+                "item": "minecraft:iron_ingot"
+            }
+        },
+        "result": {
+            "item": "wiki:corindo"
+        },
+        "unlock": [
+            {
+                "item": "minecraft:iron_ingot"
+            }
+        ]
+	}
+}

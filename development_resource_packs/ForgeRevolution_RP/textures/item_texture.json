@@ -16,6 +16,18 @@
         },
         "capacete_rubi": {
             "textures": "textures/items/capacete_rubi"
+        },
+        "peitoral_rubi": {
+            "textures": "textures/items/peitoral_rubi"
+        },
+        "calca_rubi": {
+            "textures": "textures/items/calca_rubi"
+        },
+        "botas_rubi": {
+            "textures": "textures/items/botas_rubi"
+        },
+        "corindo": {
+            "textures": "textures/items/corindo"
         }
     }
 }

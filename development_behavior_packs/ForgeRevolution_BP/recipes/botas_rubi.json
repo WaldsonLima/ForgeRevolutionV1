@@ -1,0 +1,26 @@
+{
+	"format_version": "1.21.44",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "wiki:botas_rubi"
+		},
+		"tags": ["crafting_table"],
+		"pattern": [
+            "x x",
+            "x x"
+        ],
+        "key": {
+            "x": {
+                "item": "wiki:rubi"
+            }
+        },
+        "result": {
+            "item": "wiki:botas_rubi"
+        },
+        "unlock": [
+            {
+                "item": "wiki:rubi"
+            }
+        ]
+	}
+}

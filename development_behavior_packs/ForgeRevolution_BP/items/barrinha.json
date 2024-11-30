@@ -21,7 +21,7 @@
             "minecraft:food": {
                 "can_always_eat": false,
                 "nutrition": 3,
-                "saturation_modifier": 0.6
+                "saturation_modifier": 0.8
             },
             "minecraft:use_animation": {
                 "value": "eat"

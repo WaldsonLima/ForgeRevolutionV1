@@ -1,26 +1,11 @@
 {
 	"format_version": "1.21.44",
-	"minecraft:recipe_shaped": {
+	"minecraft:recipe_furnace": {
 		"description": {
 			"identifier": "wiki:rubi"
 		},
-		"tags": ["crafting_table"],
-		"pattern": ["e", "E"],
-        "key": {
-            "E": {
-                "item": "minecraft:blaze_powder"
-            },
-            "e": {
-                "item": "minecraft:iron_ingot"
-            }
-        },
-        "result": {
-            "item": "wiki:rubi"
-        },
-        "unlock": [
-            {
-                "item": "minecraft:iron_ingot"
-            }
-        ]
+		"tags": ["furnace", "blast_furnace"],
+		"input": "wiki:corindo",
+		"output": "wiki:rubi"
 	}
 }

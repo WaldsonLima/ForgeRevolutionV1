@@ -1,0 +1,27 @@
+{
+	"format_version": "1.21.44",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "wiki:calca_rubi"
+		},
+		"tags": ["crafting_table"],
+		"pattern": [
+            "xxx",
+            "x x",
+            "x x"
+        ],
+        "key": {
+            "x": {
+                "item": "wiki:rubi"
+            }
+        },
+        "result": {
+            "item": "wiki:calca_rubi"
+        },
+        "unlock": [
+            {
+                "item": "wiki:rubi"
+            }
+        ]
+	}
+}
