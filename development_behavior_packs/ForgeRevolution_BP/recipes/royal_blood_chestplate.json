@@ -1,0 +1,27 @@
+{
+	"format_version": "1.21.44",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "wiki:royal_blood_chestplate"
+		},
+		"tags": ["crafting_table"],
+		"pattern": [
+            "x x",
+            "xxx",
+            "xxx"
+        ],
+        "key": {
+            "x": {
+                "item": "wiki:ruby"
+            }
+        },
+        "result": {
+            "item": "wiki:royal_blood_chestplate"
+        },
+        "unlock": [
+            {
+                "item": "wiki:ruby"
+            }
+        ]
+	}
+}

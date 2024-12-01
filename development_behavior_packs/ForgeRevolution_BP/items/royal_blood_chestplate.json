@@ -1,0 +1,38 @@
+{
+    "format_version": "1.21.44",
+    "minecraft:item": {
+        "description": {
+            "identifier": "wiki:royal_blood_chestplate",
+            "menu_category": {
+                "category": "equipment",
+                "group": "itemGroup.name.chestplate"
+            }
+        },
+        "components": {
+            "minecraft:icon": "royal_blood_chestplate",
+            "minecraft:display_name": {
+                "value": "Peitoral de Sangue Real"
+            },
+            "minecraft:max_stack_size": 1,
+            "minecraft:enchantable": {
+                "value": 25,
+                "slot": "armor_torso"
+            },
+            "minecraft:repairable": {
+                "repair_items": [
+                    {
+                        "items": ["wiki:ruby"],
+                        "repair_amount": "context.other->q.remaining_durability + 0.05 * context.other->q.max_durability"
+                    }
+                ]
+            },
+            "minecraft:wearable": {
+                "slot": "slot.armor.chest",
+                "protection": 8
+            },
+            "minecraft:durability": {
+                "max_durability": 800
+            }
+        }
+    }
+}

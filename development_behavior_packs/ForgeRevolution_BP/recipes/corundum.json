@@ -1,0 +1,33 @@
+{
+	"format_version": "1.21.44",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "wiki:corundum"
+		},
+		"tags": ["crafting_table"],
+		"pattern": [
+            "eee", 
+            "xyx",
+            "eee"
+        ],
+        "key": {
+            "e": {
+                "item": "minecraft:iron_nugget"
+            },
+            "x": {
+                "item": "minecraft:copper_ingot"
+            },
+            "y": {
+                "item": "iron_ingot"
+            }
+        },
+        "result": {
+            "item": "wiki:corundum"
+        },
+        "unlock": [
+            {
+                "item": "minecraft:iron_ingot"
+            }
+        ]
+	}
+}

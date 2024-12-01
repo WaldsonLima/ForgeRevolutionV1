@@ -1,0 +1,11 @@
+{
+	"format_version": "1.21.44",
+	"minecraft:recipe_furnace": {
+		"description": {
+			"identifier": "wiki:ruby"
+		},
+		"tags": ["furnace", "blast_furnace"],
+		"input": "wiki:corundum",
+		"output": "wiki:ruby"
+	}
+}

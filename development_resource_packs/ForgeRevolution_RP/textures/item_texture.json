@@ -2,32 +2,47 @@
     "resource_pack_name": "rubi",
     "texture_name": "atlas.items",
     "texture_data": {
-        "rubi": {
-            "textures": "textures/items/rubi"
+        "ruby": {
+            "textures": "textures/items/ruby"
         },
-        "espada_rubi": {
-            "textures": "textures/items/pauVeloz"
+        "corundum": {
+            "textures": "textures/items/corundum"
         },
-        "barrinha": {
-            "textures": "textures/items/barrinha"
+        "cereal_bar": {
+            "textures": "textures/items/cereal_bar"
         },
-        "cereais": {
-            "textures": "textures/items/cereais"
+        "careals": {
+            "textures": "textures/items/careals"
         },
-        "capacete_rubi": {
-            "textures": "textures/items/capacete_rubi"
+        "royal_blood_helmet": {
+            "textures": "textures/items/royal_blood_helmet"
         },
-        "peitoral_rubi": {
-            "textures": "textures/items/peitoral_rubi"
+        "royal_blood_chestplate": {
+            "textures": "textures/items/royal_blood_chestplate"
         },
-        "calca_rubi": {
-            "textures": "textures/items/calca_rubi"
+        "royal_blood_leggings": {
+            "textures": "textures/items/royal_blood_leggings"
         },
-        "botas_rubi": {
-            "textures": "textures/items/botas_rubi"
+        "royal_blood_boots": {
+            "textures": "textures/items/royal_blood_boots"
         },
-        "corindo": {
-            "textures": "textures/items/corindo"
+        "royal_blood_sword": {
+            "textures": "textures/items/royal_blood_sword"
+        },
+        "royal_blood_axe": {
+            "textures": "textures/items/royal_blood_axe"
+        },
+        "royal_blood_pickaxe": {
+            "textures": "textures/items/royal_blood_pickaxe"
+        },
+        "royal_blood_shovel": {
+            "textures": "textures/items/royal_blood_shovel"
+        },
+        "royal_blood_hoe": {
+            "textures": "textures/items/royal_blood_hoe"
+        },
+        "royal_blood_ring": {
+            "textures": "textures/items/royal_blood_ring"
         }
     }
 }

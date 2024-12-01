@@ -1,0 +1,24 @@
+{
+    "format_version": "1.21.44",
+    "minecraft:item": {
+        "description": {
+            "identifier": "wiki:royal_blood_ring",
+            "menu_category": {
+                "category": "items"
+            }
+        },
+        "components": {
+            "minecraft:rarity": "epic",
+            "minecraft:icon": "royal_blood_ring",
+            "minecraft:display_name": {
+                "value": "Anel de Sangue Real"
+            },
+            "minecraft:max_stack_size": {
+                "value": 1
+            },
+            "minecraft:allow_off_hand": {
+                "value": true
+            }
+        }
+    }
+}

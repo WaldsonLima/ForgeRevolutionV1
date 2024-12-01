@@ -1,0 +1,27 @@
+{
+	"format_version": "1.21.44",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "wiki:royal_blood_leggings"
+		},
+		"tags": ["crafting_table"],
+		"pattern": [
+            "xxx",
+            "x x",
+            "x x"
+        ],
+        "key": {
+            "x": {
+                "item": "wiki:ruby"
+            }
+        },
+        "result": {
+            "item": "wiki:royal_blood_leggings"
+        },
+        "unlock": [
+            {
+                "item": "wiki:ruby"
+            }
+        ]
+	}
+}

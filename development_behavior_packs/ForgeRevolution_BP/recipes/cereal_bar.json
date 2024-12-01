@@ -1,0 +1,25 @@
+{
+	"format_version": "1.21.44",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "wiki:cereal_bar"
+		},
+		"tags": ["crafting_table"],
+		"pattern": [
+            "xx"
+        ],
+        "key": {
+            "x": {
+                "item": "wiki:careals"
+            }
+        },
+        "result": {
+            "item": "wiki:cereal_bar"
+        },
+        "unlock": [
+            {
+                "item": "wiki:careals"
+            }
+        ]
+	}
+}

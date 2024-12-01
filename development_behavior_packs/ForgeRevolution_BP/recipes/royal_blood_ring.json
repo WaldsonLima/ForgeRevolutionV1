@@ -1,0 +1,30 @@
+{
+	"format_version": "1.21.44",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "wiki:royal_blood_ring"
+		},
+		"tags": ["crafting_table"],
+		"pattern": [
+            "xxx",
+            "xyx",
+            "xxx"
+        ],
+        "key": {
+            "x": {
+                "item": "minecraft:iron_nugget"
+            },
+            "y": {
+                "item": "wiki:ruby"
+            }
+        },
+        "result": {
+            "item": "wiki:royal_blood_ring"
+        },
+        "unlock": [
+            {
+                "item": "wiki:ruby"
+            }
+        ]
+	}
+}

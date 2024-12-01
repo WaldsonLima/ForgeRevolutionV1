@@ -1,0 +1,30 @@
+{
+	"format_version": "1.21.44",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "wiki:royal_blood_axe"
+		},
+		"tags": ["crafting_table"],
+		"pattern": [
+            "zz",
+            "zx", 
+            " x"
+        ],
+        "key": {
+            "x": {
+                "item": "minecraft:stick"
+            },
+            "z": {
+                "item": "wiki:ruby"
+            }
+        },
+        "result": {
+            "item": "wiki:royal_blood_axe"
+        },
+        "unlock": [
+            {
+                "item": "wiki:ruby"
+            }
+        ]
+	}
+}

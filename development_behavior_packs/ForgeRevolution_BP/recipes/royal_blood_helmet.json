@@ -1,0 +1,26 @@
+{
+	"format_version": "1.21.44",
+	"minecraft:recipe_shaped": {
+		"description": {
+			"identifier": "wiki:royal_blood_helmet"
+		},
+		"tags": ["crafting_table"],
+		"pattern": [
+            "xxx",
+            "x x"
+        ],
+        "key": {
+            "x": {
+                "item": "wiki:ruby"
+            }
+        },
+        "result": {
+            "item": "wiki:royal_blood_helmet"
+        },
+        "unlock": [
+            {
+                "item": "wiki:ruby"
+            }
+        ]
+	}
+}
