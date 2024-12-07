@@ -3,14 +3,14 @@
     "header": {
         "name": "Forge Revolution",
         "description": "pack.description",
-        "uuid": "f7f8f2b8-cb29-4251-8d5c-7d864f65a852",
+        "uuid": "96fbdffe-34bc-40fc-a1cb-e8c79b02b633",
         "version": [1, 0, 0],
         "min_engine_version": [1, 16, 0]
     },
     "modules": [
         {
             "type": "data",
-            "uuid": "511dee1d-9702-4731-8921-62d6aff436a9",
+            "uuid": "64c57b8c-0b7d-47b0-9128-a0c5d4ba7aa3",
             "version": [1, 0, 0]
         }
     ]

@@ -1,48 +1,9 @@
 {
-    "resource_pack_name": "rubi",
+    "resource_pack_name": "Forge Revolution",
     "texture_name": "atlas.items",
     "texture_data": {
         "ruby": {
             "textures": "textures/items/ruby"
-        },
-        "corundum": {
-            "textures": "textures/items/corundum"
-        },
-        "cereal_bar": {
-            "textures": "textures/items/cereal_bar"
-        },
-        "careals": {
-            "textures": "textures/items/careals"
-        },
-        "royal_blood_helmet": {
-            "textures": "textures/items/royal_blood_helmet"
-        },
-        "royal_blood_chestplate": {
-            "textures": "textures/items/royal_blood_chestplate"
-        },
-        "royal_blood_leggings": {
-            "textures": "textures/items/royal_blood_leggings"
-        },
-        "royal_blood_boots": {
-            "textures": "textures/items/royal_blood_boots"
-        },
-        "royal_blood_sword": {
-            "textures": "textures/items/royal_blood_sword"
-        },
-        "royal_blood_axe": {
-            "textures": "textures/items/royal_blood_axe"
-        },
-        "royal_blood_pickaxe": {
-            "textures": "textures/items/royal_blood_pickaxe"
-        },
-        "royal_blood_shovel": {
-            "textures": "textures/items/royal_blood_shovel"
-        },
-        "royal_blood_hoe": {
-            "textures": "textures/items/royal_blood_hoe"
-        },
-        "royal_blood_ring": {
-            "textures": "textures/items/royal_blood_ring"
         }
     }
 }

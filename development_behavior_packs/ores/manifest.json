@@ -1,0 +1,30 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "ores",
+		"description": "ores Behavior Pack",
+		"uuid": "56b1394a-20bf-1e11-315a-1652d3326aa3",
+		"version": [1, 0, 0],
+		"min_engine_version": [1, 16, 0]
+	},
+	"metadata": {
+		"authors": ["Lima"],
+		"generated_with": {
+			"blockbench_block_wizard": ["1.2.2"]
+		}
+	},
+	"modules": [
+		{
+			"description": "Behavior",
+			"version": [1, 0, 0],
+			"uuid": "00908b71-c913-c192-ee19-c8c01c810c55",
+			"type": "data"
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "3795c864-6a7a-6c5a-3b64-16cba4facb6b",
+			"version": [1, 0, 0]
+		}
+	]
+}
