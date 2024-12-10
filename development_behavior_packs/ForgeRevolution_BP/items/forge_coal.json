@@ -1,0 +1,23 @@
+{
+    "format_version": "1.21.50",
+    "minecraft:item": {
+        "description": {
+            "identifier": "forge:forge_coal",
+            "menu_category": {
+                "category": "construction"
+            }
+        },
+        "components": {
+            "minecraft:icon": "forge_coal",
+            "minecraft:display_name": {
+                "value": "Forge Coal"
+            },
+            "minecraft:max_stack_size": {
+                "value": 64
+            },
+            "minecraft:fuel": {
+                "duration": 350.0
+            }
+        }
+    }
+}

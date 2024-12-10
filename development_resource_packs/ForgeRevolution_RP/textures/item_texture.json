@@ -2,8 +2,17 @@
     "resource_pack_name": "Forge Revolution",
     "texture_name": "atlas.items",
     "texture_data": {
-        "ruby": {
-            "textures": "textures/items/ruby"
+        "forge_coal": {
+            "textures": "textures/items/forge_coal"
+        },
+        "rough_topaz": {
+            "textures": "textures/items/rough_topaz"
+        },
+        "topaz": {
+            "textures": "textures/items/topaz"
+        },
+        "topaz_ore": {
+            "textures": "textures/blocks/topaz_ore"
         }
     }
 }

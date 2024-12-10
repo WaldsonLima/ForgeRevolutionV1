@@ -1,0 +1,11 @@
+{
+	"format_version": "1.21.50",
+	"minecraft:recipe_furnace": {
+		"description": {
+			"identifier": "forge:forge_coal"
+		},
+		"tags": ["blast_furnace"],
+		"input": "minecraft:coal",
+		"output": "forge:forge_coal"
+	}
+}

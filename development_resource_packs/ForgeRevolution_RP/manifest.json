@@ -9,6 +9,7 @@
     },
     "modules": [
         {
+            "description": "Resource",
             "type": "resources",
             "uuid": "51f5aacd-bde4-423d-a5ea-808d9dc71a7e",
             "version": [1, 0, 0]

@@ -2,12 +2,12 @@
 	"format_version": "1.17.0",
 	"minecraft:ore_feature": {
 		"description": {
-			"identifier": "myname:titanita_feature"
+			"identifier": "forge:topaz_ore_feature"
 		},
 		"count": 8,
 		"replace_rules": [
 			{
-				"places_block": "myname:titanita",
+				"places_block": "forge:topaz_ore",
 				"may_replace": ["minecraft:stone"]
 			}
 		]
