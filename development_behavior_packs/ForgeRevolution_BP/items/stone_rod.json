@@ -2,15 +2,15 @@
     "format_version": "1.21.40",
     "minecraft:item": {
         "description": {
-            "identifier": "forge:topaz",
+            "identifier": "forge:stone_rod",
             "menu_category": {
                 "category": "items"
             }
         },
         "components": {
-            "minecraft:icon": "topaz",
+            "minecraft:icon": "stone_rod",
             "minecraft:display_name": {
-                "value": "Topaz"
+                "value": "Stone Rod"
             },
             "minecraft:max_stack_size": {
                 "value": 64

@@ -3,16 +3,34 @@
     "texture_name": "atlas.items",
     "texture_data": {
         "forge_coal": {
-            "textures": "textures/items/forge_coal"
-        },
-        "rough_topaz": {
-            "textures": "textures/items/rough_topaz"
+            "textures": "textures/items/forge_coal.png"
         },
         "topaz": {
-            "textures": "textures/items/topaz"
+            "textures": "textures/items/topaz.png"
         },
-        "topaz_ore": {
-            "textures": "textures/blocks/topaz_ore"
+        "ruby": {
+            "textures": "textures/items/ruby.png"
+        },
+        "jade": {
+            "textures": "textures/items/jade.png"
+        },
+        "titanite": {
+            "textures": "textures/items/titanite.png"
+        },
+        "fluorite": {
+            "textures": "textures/items/fluorite.png"
+        },
+        "garnet": {
+            "textures": "textures/items/garnet.png"
+        },
+        "aquamarine": {
+            "textures": "textures/items/aquamarine.png"
+        },
+        "stone_rod": {
+            "textures": "textures/items/stone_rod.png"
+        },
+        "kunai_mold": {
+            "textures": "textures/items/kunai_mold.png"
         }
     }
 }

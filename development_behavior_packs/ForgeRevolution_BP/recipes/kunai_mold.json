@@ -1,0 +1,23 @@
+{
+    "format_version": "1.21.40",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "forge:kunai_mold"
+        },
+        "tags": ["crafting_table"],
+        "pattern": [
+            " x",
+            "y"
+        ],
+        "key": {
+            "x": "minecraft:stone",
+            "y": "forge:stone_rod"
+        },
+        "unlock": [
+            {
+                "item": "minecraft:stone"
+            }
+        ],
+        "result": "forge:kunai_mold"
+    }
+}

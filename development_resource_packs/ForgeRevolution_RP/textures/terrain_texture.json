@@ -6,6 +6,9 @@
 	"texture_data": {
 		"topaz_ore": {
 			"textures": "textures/blocks/topaz_ore.png"
+		},
+		"titanite_ore": {
+			"textures": "textures/blocks/titanite_ore.png"
 		}
 	}
 }
