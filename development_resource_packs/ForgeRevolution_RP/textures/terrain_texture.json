@@ -28,8 +28,11 @@
 		"sapphire_ore": {
 			"textures": "textures/blocks/sapphire_ore.png"
 		},
-		"iceland_crystal": {
+		"iceland_crystal_ore": {
 			"textures": "textures/blocks/iceland_crystal_ore.png"
+		},
+		"garnet_ore": {
+			"textures": "textures/blocks/garnet_ore.png"
 		}
 	}
 }

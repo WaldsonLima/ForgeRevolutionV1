@@ -3,7 +3,7 @@
 	"minecraft:feature_rules": {
 		"description": {
 			"identifier": "forge:overworld_underground_rhodochrosite_ore_feature",
-			"places_feature": "forge:rhodochrosit_ore_feature"
+			"places_feature": "forge:rhodochrosite_ore_feature"
 		},
 		"conditions": {
 			"placement_pass": "underground_pass",
