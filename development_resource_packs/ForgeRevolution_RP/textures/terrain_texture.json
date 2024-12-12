@@ -9,6 +9,27 @@
 		},
 		"titanite_ore": {
 			"textures": "textures/blocks/titanite_ore.png"
+		},
+		"aquamarine_ore": {
+			"textures": "textures/blocks/aquamarine_ore.png"
+		},
+		"fluorite_ore": {
+			"textures": "textures/blocks/fluorite_ore.png"
+		},
+		"jade_ore": {
+			"textures": "textures/blocks/jade_ore.png"
+		},
+		"ruby_ore": {
+			"textures": "textures/blocks/ruby_ore.png"
+		},
+		"rhodochrosite_ore": {
+			"textures": "textures/blocks/rhodochrosite_ore.png"
+		},
+		"sapphire_ore": {
+			"textures": "textures/blocks/sapphire_ore.png"
+		},
+		"iceland_crystal": {
+			"textures": "textures/blocks/iceland_crystal_ore.png"
 		}
 	}
 }

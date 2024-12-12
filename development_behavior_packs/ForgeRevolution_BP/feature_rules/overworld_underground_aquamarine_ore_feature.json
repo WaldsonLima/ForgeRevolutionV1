@@ -1,0 +1,52 @@
+{
+	"format_version": "1.13.0",
+	"minecraft:feature_rules": {
+		"description": {
+			"identifier": "forge:overworld_underground_aquamarine_ore_feature",
+			"places_feature": "forge:aquamarine_ore_feature"
+		},
+		"conditions": {
+			"placement_pass": "underground_pass",
+			"minecraft:biome_filter": [
+				{
+					"any_of": [
+						{
+							"test": "has_biome_tag",
+							"operator": "==",
+							"value": "warm_ocean"
+						},
+                        {
+							"test": "has_biome_tag",
+							"operator": "==",
+							"value": "deep_warm_ocean"
+						},
+                        {
+							"test": "has_biome_tag",
+							"operator": "==",
+							"value": "mangrove_swamp"
+						}
+					]
+				}
+			]
+		},
+		"distribution": {
+			"iterations": 50,
+			"coordinate_eval_order": "zyx",
+			"x": {
+				"distribution": "uniform",
+				"extent": [0, 16]
+			},
+			"y": {
+				"distribution": "uniform",
+				"extent": [
+					0,
+					62
+				]
+			},
+			"z": {
+				"distribution": "uniform",
+				"extent": [0, 16]
+			}
+		}
+	}
+}

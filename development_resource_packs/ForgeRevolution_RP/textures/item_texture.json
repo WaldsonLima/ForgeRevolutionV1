@@ -26,6 +26,15 @@
         "aquamarine": {
             "textures": "textures/items/aquamarine.png"
         },
+        "rhodochrosite": {
+            "textures": "textures/items/rhodochrosite.png"
+        },
+        "sapphire": {
+            "textures": "textures/items/sapphire.png"
+        },
+        "iceland_crystal": {
+            "textures": "textures/items/iceland_crystal.png"
+        },
         "stone_rod": {
             "textures": "textures/items/stone_rod.png"
         },
