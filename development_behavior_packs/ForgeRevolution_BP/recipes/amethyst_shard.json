@@ -1,0 +1,24 @@
+{
+    "format_version": "1.21.50",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "minecraft:amethyst_shard"
+        },
+        "tags": ["crafting_table"],
+        "pattern": [
+            "x"
+        ],
+        "key": {
+            "x": "forge:compacted_amethyst"
+        },
+        "unlock": [
+            {
+                "item": "forge:compacted_amethyst"
+            }
+        ],
+        "result": {
+            "item": "minecraft:amethyst_shard",
+            "count": 9
+        }
+    }
+}

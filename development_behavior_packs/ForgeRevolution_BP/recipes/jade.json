@@ -1,0 +1,24 @@
+{
+    "format_version": "1.21.50",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "forge:jade"
+        },
+        "tags": ["crafting_table"],
+        "pattern": [
+            "x"
+        ],
+        "key": {
+            "x": "forge:jade_block"
+        },
+        "unlock": [
+            {
+                "item": "forge:jade_block"
+            }
+        ],
+        "result": {
+            "item": "forge:jade",
+            "count": 9
+        }
+    }
+}

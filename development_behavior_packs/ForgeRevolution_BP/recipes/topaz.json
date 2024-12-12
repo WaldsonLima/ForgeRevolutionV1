@@ -1,0 +1,24 @@
+{
+    "format_version": "1.21.50",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "forge:topaz"
+        },
+        "tags": ["crafting_table"],
+        "pattern": [
+            "x"
+        ],
+        "key": {
+            "x": "forge:topaz_block"
+        },
+        "unlock": [
+            {
+                "item": "forge:topaz_block"
+            }
+        ],
+        "result": {
+            "item": "forge:topaz",
+            "count": 9
+        }
+    }
+}
