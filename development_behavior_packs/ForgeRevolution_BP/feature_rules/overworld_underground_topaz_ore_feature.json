@@ -1,5 +1,5 @@
 {
-	"format_version": "1.13.0",
+	"format_version": "1.21.50",
 	"minecraft:feature_rules": {
 		"description": {
 			"identifier": "forge:overworld_underground_topaz_ore_feature",

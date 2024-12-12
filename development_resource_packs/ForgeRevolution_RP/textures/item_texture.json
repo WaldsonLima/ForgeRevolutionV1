@@ -31,6 +31,30 @@
         },
         "kunai_mold": {
             "textures": "textures/items/kunai_mold.png"
+        },
+        "katana_mold": {
+            "textures": "textures/items/katana_mold.png"
+        },
+        "greatsword_mold": {
+            "textures": "textures/items/greatsword_mold.png"
+        },
+        "hammer_mold": {
+            "textures": "textures/items/hammer_mold.png"
+        },
+        "helmet_mold": {
+            "textures": "textures/items/helmet_mold.png"
+        },
+        "chestplate_mold": {
+            "textures": "textures/items/chestplate_mold.png"
+        },
+        "leggings_mold": {
+            "textures": "textures/items/leggings_mold.png"
+        },
+        "boots_mold": {
+            "textures": "textures/items/boots_mold.png"
+        },
+        "ring_mold": {
+            "textures": "textures/items/ring_mold.png"
         }
     }
 }

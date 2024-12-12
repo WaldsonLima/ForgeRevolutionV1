@@ -2,15 +2,15 @@
     "format_version": "1.21.50",
     "minecraft:item": {
         "description": {
-            "identifier": "forge:ruby",
+            "identifier": "forge:chestplate_mold",
             "menu_category": {
                 "category": "items"
             }
         },
         "components": {
-            "minecraft:icon": "ruby",
+            "minecraft:icon": "chestplate_mold",
             "minecraft:display_name": {
-                "value": "Ruby"
+                "value": "Chestplate Mold"
             },
             "minecraft:max_stack_size": {
                 "value": 64

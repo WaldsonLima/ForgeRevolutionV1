@@ -2,22 +2,22 @@
     "format_version": "1.21.50",
     "minecraft:recipe_shaped": {
         "description": {
-            "identifier": "forge:kunai_mold"
+            "identifier": "forge:chestplate_mold"
         },
         "tags": ["crafting_table"],
         "pattern": [
-            " x",
-            "y"
+            "x x",
+            "xxx",
+            "xxx"
         ],
         "key": {
-            "x": "minecraft:stone",
-            "y": "forge:stone_rod"
+            "x": "minecraft:stone"
         },
         "unlock": [
             {
                 "item": "minecraft:stone"
             }
         ],
-        "result": "forge:kunai_mold"
+        "result": "forge:chestplate_mold"
     }
 }

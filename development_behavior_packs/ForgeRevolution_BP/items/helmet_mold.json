@@ -2,15 +2,15 @@
     "format_version": "1.21.50",
     "minecraft:item": {
         "description": {
-            "identifier": "forge:ruby",
+            "identifier": "forge:helmet_mold",
             "menu_category": {
                 "category": "items"
             }
         },
         "components": {
-            "minecraft:icon": "ruby",
+            "minecraft:icon": "helmet_mold",
             "minecraft:display_name": {
-                "value": "Ruby"
+                "value": "Helmet Mold"
             },
             "minecraft:max_stack_size": {
                 "value": 64
