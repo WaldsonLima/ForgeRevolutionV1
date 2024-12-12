@@ -1,0 +1,23 @@
+{
+    "format_version": "1.21.50",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "forge:topaz_block"
+        },
+        "tags": ["crafting_table"],
+        "pattern": [
+            "xxx",
+            "xxx",
+            "xxx"
+        ],
+        "key": {
+            "x": "forge:topaz"
+        },
+        "unlock": [
+            {
+                "item": "forge:topaz"
+            }
+        ],
+        "result": "forge:topaz_block"
+    }
+}

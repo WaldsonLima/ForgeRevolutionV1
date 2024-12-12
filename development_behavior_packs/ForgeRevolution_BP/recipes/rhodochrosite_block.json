@@ -1,0 +1,23 @@
+{
+    "format_version": "1.21.50",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "forge:rhodochrosite_block"
+        },
+        "tags": ["crafting_table"],
+        "pattern": [
+            "xxx",
+            "xxx",
+            "xxx"
+        ],
+        "key": {
+            "x": "forge:rhodochrosite"
+        },
+        "unlock": [
+            {
+                "item": "forge:rhodochrosite"
+            }
+        ],
+        "result": "forge:rhodochrosite_block"
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "format_version": "1.21.50",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "forge:titanite_block"
+        },
+        "tags": ["crafting_table"],
+        "pattern": [
+            "xxx",
+            "xxx",
+            "xxx"
+        ],
+        "key": {
+            "x": "forge:titanite"
+        },
+        "unlock": [
+            {
+                "item": "forge:titanite"
+            }
+        ],
+        "result": "forge:titanite_block"
+    }
+}

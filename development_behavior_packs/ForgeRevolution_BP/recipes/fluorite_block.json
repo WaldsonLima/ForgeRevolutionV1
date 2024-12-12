@@ -1,0 +1,23 @@
+{
+    "format_version": "1.21.50",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "forge:fluorite_block"
+        },
+        "tags": ["crafting_table"],
+        "pattern": [
+            "xxx",
+            "xxx",
+            "xxx"
+        ],
+        "key": {
+            "x": "forge:fluorite"
+        },
+        "unlock": [
+            {
+                "item": "forge:fluorite"
+            }
+        ],
+        "result": "forge:fluorite_block"
+    }
+}

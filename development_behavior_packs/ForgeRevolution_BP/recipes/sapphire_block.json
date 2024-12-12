@@ -1,0 +1,23 @@
+{
+    "format_version": "1.21.50",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "forge:sapphire_block"
+        },
+        "tags": ["crafting_table"],
+        "pattern": [
+            "xxx",
+            "xxx",
+            "xxx"
+        ],
+        "key": {
+            "x": "forge:sapphire"
+        },
+        "unlock": [
+            {
+                "item": "forge:sapphire"
+            }
+        ],
+        "result": "forge:sapphire_block"
+    }
+}
