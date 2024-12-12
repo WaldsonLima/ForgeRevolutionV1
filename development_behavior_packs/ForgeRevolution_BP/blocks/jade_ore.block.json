@@ -17,7 +17,7 @@
 			"minecraft:destructible_by_explosion": {
 				"explosion_resistance": 30
 			},
-			"minecraft:geometry": "geometry.all_ores",
+			"minecraft:geometry": "geometry.all_forge_blocks",
 			"minecraft:display_name": "Jade Ore",
 			"minecraft:material_instances": {
 				"*": {

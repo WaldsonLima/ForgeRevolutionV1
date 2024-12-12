@@ -17,7 +17,7 @@
 			"minecraft:destructible_by_explosion": {
 				"explosion_resistance": 30
 			},
-			"minecraft:geometry": "geometry.all_ores",
+			"minecraft:geometry": "geometry.all_forge_blocks",
 			"minecraft:display_name": "Iceland Crystal Ore",
 			"minecraft:material_instances": {
 				"*": {
@@ -26,7 +26,7 @@
 				}
 			},
 			"minecraft:map_color": "#ffffff",
-			"minecraft:loot": "loot_tables/blocks/rhodochrosite.json"
+			"minecraft:loot": "loot_tables/blocks/iceland_crystal.json"
 		}
 	}
 }

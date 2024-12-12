@@ -33,6 +33,39 @@
 		},
 		"garnet_ore": {
 			"textures": "textures/blocks/garnet_ore.png"
+		},
+		"topaz_block": {
+			"textures": "textures/blocks/topaz_block.png"
+		},
+		"titanite_block": {
+			"textures": "textures/blocks/titanite_block.png"
+		},
+		"aquamarine_block": {
+			"textures": "textures/blocks/aquamarine_block.png"
+		},
+		"fluorite_block": {
+			"textures": "textures/blocks/fluorite_block.png"
+		},
+		"jade_block": {
+			"textures": "textures/blocks/jade_block.png"
+		},
+		"ruby_block": {
+			"textures": "textures/blocks/ruby_block.png"
+		},
+		"rhodochrosite_block": {
+			"textures": "textures/blocks/rhodochrosite_block.png"
+		},
+		"sapphire_block": {
+			"textures": "textures/blocks/sapphire_block.png"
+		},
+		"iceland_crystal_block": {
+			"textures": "textures/blocks/iceland_crystal_block.png"
+		},
+		"compacted_amethyst": {
+			"textures": "textures/blocks/compacted_amethyst.png"
+		},
+		"garnet_block": {
+			"textures": "textures/blocks/garnet_block.png"
 		}
 	}
 }

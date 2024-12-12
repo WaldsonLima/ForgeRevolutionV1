@@ -2,10 +2,9 @@
 	"format_version": "1.20.20",
 	"minecraft:block": {
 		"description": {
-			"identifier": "forge:fluorite_ore",
+			"identifier": "forge:aquamarine_block",
 			"menu_category": {
-				"category": "nature",
-				"group": "itemGroup.name.ore"
+				"category": "construction"
 			}
 		},
 		"components": {
@@ -18,15 +17,14 @@
 				"explosion_resistance": 30
 			},
 			"minecraft:geometry": "geometry.all_forge_blocks",
-			"minecraft:display_name": "Fluorite Ore",
+			"minecraft:display_name": "Aquamarine Block",
 			"minecraft:material_instances": {
 				"*": {
-					"texture": "fluorite_ore",
+					"texture": "aquamarine_block",
 					"render_method": "alpha_test"
 				}
 			},
-			"minecraft:map_color": "#ffffff",
-			"minecraft:loot": "loot_tables/blocks/fluorite.json"
+			"minecraft:map_color": "#ffffff"
 		}
 	}
 }
