@@ -1,0 +1,82 @@
+{
+	"format_version": "1.21.50",
+	"minecraft:feature_rules": {
+		"description": {
+			"identifier": "forge:overworld_underground_ice_crystal_ore_feature_1",
+			"places_feature": "forge:ice_crystal_ore_feature"
+		},
+		"conditions": {
+			"placement_pass": "underground_pass",
+			"minecraft:biome_filter": [
+				{
+					"any_of": [
+						{
+							"test": "has_biome_tag",
+							"operator": "==",
+							"value": "frozen_ocean"
+						},
+						{
+							"test": "has_biome_tag",
+							"operator": "==",
+							"value": "frozen_peaks"
+						},
+						{
+							"test": "has_biome_tag",
+							"operator": "==",
+							"value": "frozen_river"
+						},
+						{
+							"test": "has_biome_tag",
+							"operator": "==",
+							"value": "ice_mountains"
+						},
+                        {
+							"test": "has_biome_tag",
+							"operator": "==",
+							"value": "ice_plains"
+						},
+                        {
+							"test": "has_biome_tag",
+							"operator": "==",
+							"value": "ice_plains_spikes"
+						},
+                        {
+							"test": "has_biome_tag",
+							"operator": "==",
+							"value": "legacy_frozen_ocean"
+						},
+						{
+							"test": "has_biome_tag",
+							"operator": "==",
+							"value": "frozen_peaks"
+						},
+						{
+							"test": "has_biome_tag",
+							"operator": "==",
+							"value": "snowy_slopes"
+						}
+					]
+				}
+			]
+		},
+		"distribution": {
+			"iterations": 6,
+			"coordinate_eval_order": "zyx",
+			"x": {
+				"distribution": "uniform",
+				"extent": [0, 16]
+			},
+			"y": {
+				"distribution": "uniform",
+				"extent": [
+					30,
+					80
+				]
+			},
+			"z": {
+				"distribution": "uniform",
+				"extent": [0, 16]
+			}
+		}
+	}
+}

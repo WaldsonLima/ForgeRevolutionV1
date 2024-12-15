@@ -1,0 +1,57 @@
+{
+	"format_version": "1.21.50",
+	"minecraft:feature_rules": {
+		"description": {
+			"identifier": "forge:overworld_underground_ruby_ore_feature_2",
+			"places_feature": "forge:ruby_ore_feature"
+		},
+		"conditions": {
+			"placement_pass": "underground_pass",
+			"minecraft:biome_filter": [
+				{
+					"any_of": [
+                        {
+                            "test": "has_biome_tag",
+							"operator": "==",
+							"value": "desert"
+                        },
+                        {
+                            "test": "has_biome_tag",
+							"operator": "==",
+							"value": "desert_hills"
+                        },
+                        {
+                            "test": "has_biome_tag",
+							"operator": "==",
+							"value": "desert_mutated"
+                        },
+                        {
+                            "test": "has_biome_tag",
+							"operator": "==",
+							"value": "cold_beach"
+                        }
+					]
+				}
+			]
+		},
+		"distribution": {
+			"iterations": 4,
+			"coordinate_eval_order": "zyx",
+			"x": {
+				"distribution": "uniform",
+				"extent": [0, 16]
+			},
+			"y": {
+				"distribution": "uniform",
+				"extent": [
+					0,
+					30
+				]
+			},
+			"z": {
+				"distribution": "uniform",
+				"extent": [0, 16]
+			}
+		}
+	}
+}

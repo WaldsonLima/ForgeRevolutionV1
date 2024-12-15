@@ -7,32 +7,62 @@
 		"topaz_ore": {
 			"textures": "textures/blocks/topaz_ore.png"
 		},
+		"topaz_deep_ore": {
+			"textures": "textures/blocks/topaz_deep_ore.png"
+		},
 		"titanite_ore": {
 			"textures": "textures/blocks/titanite_ore.png"
+		},
+		"titanite_deep_ore": {
+			"textures": "textures/blocks/titanite_deep_ore.png"
 		},
 		"aquamarine_ore": {
 			"textures": "textures/blocks/aquamarine_ore.png"
 		},
+		"aquamarine_deep_ore": {
+			"textures": "textures/blocks/aquamarine_deep_ore.png"
+		},
 		"fluorite_ore": {
 			"textures": "textures/blocks/fluorite_ore.png"
+		},
+		"fluorite_deep_ore": {
+			"textures": "textures/blocks/fluorite_deep_ore.png"
 		},
 		"jade_ore": {
 			"textures": "textures/blocks/jade_ore.png"
 		},
+		"jade_deep_ore": {
+			"textures": "textures/blocks/jade_deep_ore.png"
+		},
 		"ruby_ore": {
 			"textures": "textures/blocks/ruby_ore.png"
+		},
+		"ruby_deep_ore": {
+			"textures": "textures/blocks/ruby_deep_ore.png"
 		},
 		"rhodochrosite_ore": {
 			"textures": "textures/blocks/rhodochrosite_ore.png"
 		},
+		"rhodochrosite_deep_ore": {
+			"textures": "textures/blocks/rhodochrosite_deep_ore.png"
+		},
 		"sapphire_ore": {
 			"textures": "textures/blocks/sapphire_ore.png"
 		},
-		"iceland_crystal_ore": {
-			"textures": "textures/blocks/iceland_crystal_ore.png"
+		"sapphire_deep_ore": {
+			"textures": "textures/blocks/sapphire_deep_ore.png"
+		},
+		"ice_crystal_ore": {
+			"textures": "textures/blocks/ice_crystal_ore.png"
+		},
+		"ice_crystal_deep_ore": {
+			"textures": "textures/blocks/ice_crystal_deep_ore.png"
 		},
 		"garnet_ore": {
 			"textures": "textures/blocks/garnet_ore.png"
+		},
+		"garnet_deep_ore": {
+			"textures": "textures/blocks/garnet_deep_ore.png"
 		},
 		"topaz_block": {
 			"textures": "textures/blocks/topaz_block.png"
@@ -58,8 +88,8 @@
 		"sapphire_block": {
 			"textures": "textures/blocks/sapphire_block.png"
 		},
-		"iceland_crystal_block": {
-			"textures": "textures/blocks/iceland_crystal_block.png"
+		"ice_crystal_block": {
+			"textures": "textures/blocks/ice_crystal_block.png"
 		},
 		"compacted_amethyst": {
 			"textures": "textures/blocks/compacted_amethyst.png"

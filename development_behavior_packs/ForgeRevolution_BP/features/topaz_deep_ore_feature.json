@@ -1,0 +1,15 @@
+{
+	"format_version": "1.21.50",
+	"minecraft:ore_feature": {
+		"description": {
+			"identifier": "forge:topaz_deep_ore_feature"
+		},
+		"count": 8,
+		"replace_rules": [
+			{
+				"places_block": "forge:topaz_deep_ore",
+				"may_replace": ["minecraft:deepslate"]
+			}
+		]
+	}
+}

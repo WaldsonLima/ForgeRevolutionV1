@@ -32,8 +32,8 @@
         "sapphire": {
             "textures": "textures/items/sapphire.png"
         },
-        "iceland_crystal": {
-            "textures": "textures/items/iceland_crystal.png"
+        "ice_crystal": {
+            "textures": "textures/items/ice_crystal.png"
         },
         "stone_rod": {
             "textures": "textures/items/stone_rod.png"
