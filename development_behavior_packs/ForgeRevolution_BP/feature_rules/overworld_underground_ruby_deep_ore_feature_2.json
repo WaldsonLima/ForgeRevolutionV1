@@ -28,11 +28,6 @@
                         {
                             "test": "has_biome_tag",
 							"operator": "==",
-							"value": "beach"
-                        },
-                        {
-                            "test": "has_biome_tag",
-							"operator": "==",
 							"value": "cold_beach"
                         }
 					]
