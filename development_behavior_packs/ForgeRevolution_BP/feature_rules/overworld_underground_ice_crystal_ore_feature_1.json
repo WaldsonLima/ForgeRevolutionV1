@@ -60,7 +60,7 @@
 			]
 		},
 		"distribution": {
-			"iterations": 6,
+			"iterations": 7,
 			"coordinate_eval_order": "zyx",
 			"x": {
 				"distribution": "uniform",
@@ -70,7 +70,7 @@
 				"distribution": "uniform",
 				"extent": [
 					30,
-					80
+					120
 				]
 			},
 			"z": {

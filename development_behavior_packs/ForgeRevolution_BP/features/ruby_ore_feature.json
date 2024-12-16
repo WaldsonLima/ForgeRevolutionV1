@@ -9,6 +9,10 @@
 			{
 				"places_block": "forge:ruby_ore",
 				"may_replace": ["minecraft:stone"]
+			},
+			{
+				"places_block": "forge:ruby_ore_sand",
+				"may_replace": ["minecraft:sandstone"]
 			}
 		]
 	}

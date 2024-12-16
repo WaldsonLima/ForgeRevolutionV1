@@ -9,6 +9,10 @@
 			{
 				"places_block": "forge:ice_crystal_ore",
 				"may_replace": ["minecraft:stone"]
+			},
+			{
+				"places_block": "forge:ice_crystal_ore",
+				"may_replace": ["minecraft:packed_ice"]
 			}
 		]
 	}

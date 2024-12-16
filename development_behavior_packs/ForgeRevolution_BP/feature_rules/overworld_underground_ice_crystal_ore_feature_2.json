@@ -49,6 +49,11 @@
 							"test": "has_biome_tag",
 							"operator": "==",
 							"value": "frozen_peaks"
+						},
+						{
+							"test": "has_biome_tag",
+							"operator": "==",
+							"value": "snowy_slopes"
 						}
 					]
 				}

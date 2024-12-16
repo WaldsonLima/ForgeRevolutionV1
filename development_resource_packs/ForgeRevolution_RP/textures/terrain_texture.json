@@ -40,6 +40,9 @@
 		"ruby_deep_ore": {
 			"textures": "textures/blocks/ruby_deep_ore.png"
 		},
+		"ruby_ore_sand": {
+			"textures": "textures/blocks/ruby_ore_sand.png"
+		},
 		"rhodochrosite_ore": {
 			"textures": "textures/blocks/rhodochrosite_ore.png"
 		},
