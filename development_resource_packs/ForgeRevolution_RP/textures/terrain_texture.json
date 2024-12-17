@@ -99,6 +99,13 @@
 		},
 		"garnet_block": {
 			"textures": "textures/blocks/garnet_block.png"
+		},
+		"coke_coal_block": {
+			"textures": "textures/blocks/coke_coal_block.png"
+		},
+		"coke_coal_ore": {
+			"textures": "textures/blocks/coke_coal_ore.png"
 		}
+		
 	}
 }
