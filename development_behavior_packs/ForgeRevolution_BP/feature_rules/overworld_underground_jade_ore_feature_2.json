@@ -2,8 +2,8 @@
 	"format_version": "1.21.50",
 	"minecraft:feature_rules": {
 		"description": {
-			"identifier": "forge:overworld_underground_jade_ore_feature",
-			"places_feature": "forge:jade_ore_feature_2"
+			"identifier": "forge:overworld_underground_jade_ore_feature_2",
+			"places_feature": "forge:jade_ore_feature"
 		},
 		"conditions": {
 			"placement_pass": "underground_pass",

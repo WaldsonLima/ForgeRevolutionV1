@@ -54,6 +54,16 @@
 							"test": "has_biome_tag",
 							"operator": "==",
 							"value": "snowy_slopes"
+						},
+						{
+							"test": "has_biome_tag",
+							"operator": "==",
+							"value": "jagged_peaks"
+						},
+						{
+							"test": "has_biome_tag",
+							"operator": "==",
+							"value": "grove"
 						}
 					]
 				}

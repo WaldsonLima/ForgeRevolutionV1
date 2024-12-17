@@ -1,11 +1,24 @@
 {
 	"format_version": "1.21.50",
-	"minecraft:recipe_furnace": {
+	"minecraft:recipe_shaped": {
 		"description": {
-			"identifier": "forge:forge_coal"
-		},
-		"tags": ["blast_furnace"],
-		"input": "minecraft:coal",
-		"output": "forge:forge_coal"
+            "identifier": "forge:forge_coal"
+        },
+        "tags": ["crafting_table"],
+        "pattern": [
+            "x"
+        ],
+        "key": {
+            "x": "forge:forge_coal_block"
+        },
+        "unlock": [
+            {
+                "item": "forge:forge_coal_block"
+            }
+        ],
+        "result": { 
+            "item": "forge:forge_coal",
+            "count": 9
+        }
 	}
 }

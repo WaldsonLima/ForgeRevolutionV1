@@ -1,0 +1,23 @@
+{
+    "format_version": "1.21.50",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "forge:forge_coal_block"
+        },
+        "tags": ["crafting_table"],
+        "pattern": [
+            "xxx",
+            "xxx",
+            "xxx"
+        ],
+        "key": {
+            "x": "forge:forge_coal"
+        },
+        "unlock": [
+            {
+                "item": "forge:forge_coal"
+            }
+        ],
+        "result": "forge:forge_coal_block"
+    }
+}

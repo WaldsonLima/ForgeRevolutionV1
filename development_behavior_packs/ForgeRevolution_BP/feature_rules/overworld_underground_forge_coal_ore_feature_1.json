@@ -2,8 +2,8 @@
 	"format_version": "1.21.50",
 	"minecraft:feature_rules": {
 		"description": {
-			"identifier": "forge:overworld_underground_aquamarine_ore_feature_1",
-			"places_feature": "forge:aquamarine_ore_feature"
+			"identifier": "forge:overworld_underground_forge_coal_ore_feature_1",
+			"places_feature": "forge:forge_coal_ore_feature"
 		},
 		"conditions": {
 			"placement_pass": "underground_pass",
@@ -13,14 +13,19 @@
 						{
 							"test": "has_biome_tag",
 							"operator": "==",
-							"value": "beach"
+							"value": "overworld"
+						},
+						{
+							"test": "has_biome_tag",
+							"operator": "==",
+							"value": "overworld_generation"
 						}
 					]
 				}
 			]
 		},
 		"distribution": {
-			"iterations": 6,
+			"iterations": 10,
 			"coordinate_eval_order": "zyx",
 			"x": {
 				"distribution": "uniform",
@@ -29,8 +34,8 @@
 			"y": {
 				"distribution": "uniform",
 				"extent": [
-					30,
-					150
+					-60,
+					-20
 				]
 			},
 			"z": {
