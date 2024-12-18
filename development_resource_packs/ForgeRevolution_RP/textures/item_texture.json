@@ -64,6 +64,42 @@
         },
         "ring_mold": {
             "textures": "textures/items/ring_mold.png"
+        },
+        "topaz_ring": {
+            "textures": "textures/items/topaz_ring.png"
+        },
+        "aquamarine_ring": {
+            "textures": "textures/items/aquamarine_ring.png"
+        },
+        "amethyst_ring": {
+            "textures": "textures/items/amethyst_ring.png"
+        },
+        "emerald_ring": {
+            "textures": "textures/items/emerald_ring.png"
+        },
+        "fluorite_ring": {
+            "textures": "textures/items/fluorite_ring.png"
+        },
+        "garnet_ring": {
+            "textures": "textures/items/garnet_ring.png"
+        },
+        "ice_crystal_ring": {
+            "textures": "textures/items/ice_crystal_ring.png"
+        },
+        "jade_ring": {
+            "textures": "textures/items/jade_ring.png"
+        },
+        "rhodochrosite_ring": {
+            "textures": "textures/items/rhodochrosite_ring.png"
+        },
+        "ruby_ring": {
+            "textures": "textures/items/ruby_ring.png"
+        },
+        "sapphire_ring": {
+            "textures": "textures/items/sapphire_ring.png"
+        },
+        "titanite_ring": {
+            "textures": "textures/items/titanite_ring.png"
         }
     }
 }
