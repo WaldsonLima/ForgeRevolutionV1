@@ -17,7 +17,7 @@
 				"explosion_resistance": 30
 			},
 			"minecraft:geometry": "geometry.all_forge_blocks",
-			"minecraft:display_name": "Iceland Crystal Block",
+			"minecraft:display_name": "Ice Crystal Block",
 			"minecraft:material_instances": {
 				"*": {
 					"texture": "ice_crystal_block",

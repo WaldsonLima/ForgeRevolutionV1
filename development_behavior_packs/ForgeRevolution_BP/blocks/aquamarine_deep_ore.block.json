@@ -18,7 +18,7 @@
 				"explosion_resistance": 30
 			},
 			"minecraft:geometry": "geometry.all_forge_blocks",
-			"minecraft:display_name": "Aquamarine Ore",
+			"minecraft:display_name": "Deepslate Aquamarine Ore",
 			"minecraft:material_instances": {
 				"*": {
 					"texture": "aquamarine_deep_ore",

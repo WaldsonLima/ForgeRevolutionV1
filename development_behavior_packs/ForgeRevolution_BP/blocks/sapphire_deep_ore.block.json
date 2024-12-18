@@ -18,7 +18,7 @@
 				"explosion_resistance": 30
 			},
 			"minecraft:geometry": "geometry.all_forge_blocks",
-			"minecraft:display_name": "Sapphire Ore",
+			"minecraft:display_name": "Deepslate Sapphire Ore",
 			"minecraft:material_instances": {
 				"*": {
 					"texture": "sapphire_deep_ore",

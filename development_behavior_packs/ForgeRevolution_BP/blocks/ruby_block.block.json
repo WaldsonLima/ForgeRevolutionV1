@@ -17,7 +17,7 @@
 				"explosion_resistance": 30
 			},
 			"minecraft:geometry": "geometry.all_forge_blocks",
-			"minecraft:display_name": "Ruby jade_block",
+			"minecraft:display_name": "Ruby Block",
 			"minecraft:material_instances": {
 				"*": {
 					"texture": "ruby_block",

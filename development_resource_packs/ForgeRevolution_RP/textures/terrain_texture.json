@@ -22,6 +22,9 @@
 		"aquamarine_deep_ore": {
 			"textures": "textures/blocks/aquamarine_deep_ore.png"
 		},
+		"aquamarine_ore_sand": {
+			"textures": "textures/blocks/aquamarine_ore_sand.png"
+		},
 		"fluorite_ore": {
 			"textures": "textures/blocks/fluorite_ore.png"
 		},
