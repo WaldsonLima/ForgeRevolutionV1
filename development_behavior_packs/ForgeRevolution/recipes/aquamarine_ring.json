@@ -1,0 +1,24 @@
+{
+    "format_version": "1.21.50",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "forge:aquamarine_ring"
+        },
+        "tags": ["crafting_table"],
+        "pattern": [
+            "xxx",
+            "xyx",
+            "xxx"
+        ],
+        "key": {
+            "x": "forge:aquamarine",
+            "y": "forge:ring_mold"
+        },
+        "unlock": [
+            {
+                "item": "forge:aquamarine"
+            }
+        ],
+        "result": "forge:aquamarine_ring"
+    }
+}

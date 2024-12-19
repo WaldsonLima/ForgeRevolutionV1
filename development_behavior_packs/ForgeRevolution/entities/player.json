@@ -211,11 +211,165 @@
                     "subject": "self",
                     "domain": "hand",
                     "operator": "==",
-                    "value": "wiki:royal_blood_ring"
+                    "value": "forge:topaz_ring"
                   }
                 ]
               },
-              "event": "wiki:royal_blood_ring"
+              "event": "forge:topaz_ring_event"
+            },
+            {
+              "filters": {
+                "all_of": [
+                  {
+                    "test": "has_equipment",
+                    "subject": "self",
+                    "domain": "hand",
+                    "operator": "==",
+                    "value": "forge:aquamarine_ring"
+                  }
+                ]
+              },
+              "event": "forge:aquamarine_ring_event"
+            },
+            {
+              "filters": {
+                "all_of": [
+                  {
+                    "test": "has_equipment",
+                    "subject": "self",
+                    "domain": "hand",
+                    "operator": "==",
+                    "value": "forge:amethyst_ring"
+                  }
+                ]
+              },
+              "event": "forge:amethyst_ring_event"
+            },
+            {
+              "filters": {
+                "all_of": [
+                  {
+                    "test": "has_equipment",
+                    "subject": "self",
+                    "domain": "hand",
+                    "operator": "==",
+                    "value": "forge:emerald_ring"
+                  }
+                ]
+              },
+              "event": "forge:emerald_ring_event"
+            },
+            {
+              "filters": {
+                "all_of": [
+                  {
+                    "test": "has_equipment",
+                    "subject": "self",
+                    "domain": "hand",
+                    "operator": "==",
+                    "value": "forge:fluorite_ring"
+                  }
+                ]
+              },
+              "event": "forge:fluorite_ring_event"
+            },
+            {
+              "filters": {
+                "all_of": [
+                  {
+                    "test": "has_equipment",
+                    "subject": "self",
+                    "domain": "hand",
+                    "operator": "==",
+                    "value": "forge:garnet_ring"
+                  }
+                ]
+              },
+              "event": "forge:garnet_ring_event"
+            },
+            {
+              "filters": {
+                "all_of": [
+                  {
+                    "test": "has_equipment",
+                    "subject": "self",
+                    "domain": "hand",
+                    "operator": "==",
+                    "value": "forge:ice_crystal_ring"
+                  }
+                ]
+              },
+              "event": "forge:ice_crystal_ring_event"
+            },
+            {
+              "filters": {
+                "all_of": [
+                  {
+                    "test": "has_equipment",
+                    "subject": "self",
+                    "domain": "hand",
+                    "operator": "==",
+                    "value": "forge:jade_ring"
+                  }
+                ]
+              },
+              "event": "forge:jade_ring_event"
+            },
+            {
+              "filters": {
+                "all_of": [
+                  {
+                    "test": "has_equipment",
+                    "subject": "self",
+                    "domain": "hand",
+                    "operator": "==",
+                    "value": "forge:rhodochrosite_ring"
+                  }
+                ]
+              },
+              "event": "forge:rhodochrosite_ring_event"
+            },
+            {
+              "filters": {
+                "all_of": [
+                  {
+                    "test": "has_equipment",
+                    "subject": "self",
+                    "domain": "hand",
+                    "operator": "==",
+                    "value": "forge:ruby_ring"
+                  }
+                ]
+              },
+              "event": "forge:ruby_ring_event"
+            },
+            {
+              "filters": {
+                "all_of": [
+                  {
+                    "test": "has_equipment",
+                    "subject": "self",
+                    "domain": "hand",
+                    "operator": "==",
+                    "value": "forge:sapphire_ring"
+                  }
+                ]
+              },
+              "event": "forge:sapphire_ring_event"
+            },
+            {
+              "filters": {
+                "all_of": [
+                  {
+                    "test": "has_equipment",
+                    "subject": "self",
+                    "domain": "hand",
+                    "operator": "==",
+                    "value": "forge:titanite_ring"
+                  }
+                ]
+              },
+              "event": "forge:titanite_ring_event"
             }
           ]
         }
@@ -223,21 +377,52 @@
   
       "events": {
         "wiki:royal_blood_armor": {
-            "sequence": [
+          "sequence": [
+            {
+              "queue_command": {
+                  "command": "effect @s health_boost 2 0"
+              }
+            }
+          ]
+        },
+        "forge:topaz_ring_event": {
+          "sequence": [
+            {
+              "queue_command": {
+                  "command": "effect @s speed 2 1"
+              }
+            }
+          ]
+        },
+        "forge:aquamarine_ring_event": {
+          "sequence": [
               {
                 "queue_command": {
-                    "command": "effect @s health_boost 2 0"
+                    "command": "effect @s water_breathing 2 1"
                 }
               }
             ]
         },
-        "wiki:royal_blood_ring": {
-            "sequence": [
+        "forge:amethyst_ring_event": {
+          "sequence": [
               {
                 "queue_command": {
-                    "command": "effect @s speed 2 1"
+                    "command": "effect @s regeneration 2 1"
                 }
-              },
+              }
+            ]
+        },
+        "forge:emerald_ring_event": {
+          "sequence": [
+              {
+                "queue_command": {
+                    "command": "effect @s resistance 2 1"
+                }
+              }
+            ]
+        },
+        "forge:fluorite_ring_event": {
+          "sequence": [
               {
                 "queue_command": {
                     "command": "effect @s jump_boost 2 1"
@@ -245,6 +430,70 @@
               }
             ]
         },
+        "forge:garnet_ring_event": {
+          "sequence": [
+              {
+                "queue_command": {
+                    "command": "effect @s fire_resistance 2 1"
+                }
+              }
+            ]
+        },
+        "forge:ice_crystal_ring_event": {
+          "sequence": [
+              {
+                "queue_command": {
+                    "command": "effect @s invisibility 2 1"
+                }
+              }
+            ]
+        },
+        "forge:jade_ring_event": {
+          "sequence": [
+              {
+                "queue_command": {
+                    "command": "effect @s haste 2 1"
+                }
+              }
+            ]
+        },
+        "forge:rhodochrosite_ring_event": {
+          "sequence": [
+              {
+                "queue_command": {
+                    "command": "effect @s absorption 2 1"
+                }
+              }
+            ]
+        },
+        "forge:ruby_ring_event": {
+          "sequence": [
+              {
+                "queue_command": {
+                    "command": "effect @s health_boost 2 1"
+                }
+              }
+            ]
+        },
+        "forge:sapphire_ring_event": {
+          "sequence": [
+              {
+                "queue_command": {
+                    "command": "effect @s night_vision 2 1"
+                }
+              }
+            ]
+        },
+        "forge:titanite_ring_event": {
+          "sequence": [
+              {
+                "queue_command": {
+                    "command": "effect @s strength 2 1"
+                }
+              }
+            ]
+        },
+
         "minecraft:gain_bad_omen": {
           "add": {
             "component_groups": [
