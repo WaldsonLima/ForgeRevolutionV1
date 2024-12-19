@@ -18,7 +18,7 @@
 				"explosion_resistance": 30
 			},
 			"minecraft:geometry": "geometry.all_forge_blocks",
-			"minecraft:display_name": "Iceland Crystal Ore",
+			"minecraft:display_name": "Deepslate Ice Crystal Ore",
 			"minecraft:material_instances": {
 				"*": {
 					"texture": "ice_crystal_deep_ore",

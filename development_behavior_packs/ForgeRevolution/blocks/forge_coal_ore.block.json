@@ -17,7 +17,7 @@
 				"explosion_resistance": 30
 			},
 			"minecraft:geometry": "geometry.all_forge_blocks",
-			"minecraft:display_name": "Coke Coal Ore",
+			"minecraft:display_name": "Forge Coal Ore",
 			"minecraft:material_instances": {
 				"*": {
 					"texture": "forge_coal_ore",

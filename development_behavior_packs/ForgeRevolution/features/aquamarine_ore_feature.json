@@ -9,6 +9,10 @@
 			{
 				"places_block": "forge:aquamarine_ore",
 				"may_replace": ["minecraft:stone"]
+			},
+			{
+				"places_block": "forge:aquamarine_ore_sand",
+				"may_replace": ["minecraft:sandstone"]
 			}
 		]
 	}

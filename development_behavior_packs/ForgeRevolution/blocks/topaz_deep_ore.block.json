@@ -18,7 +18,7 @@
 				"explosion_resistance": 30
 			},
 			"minecraft:geometry": "geometry.all_forge_blocks",
-			"minecraft:display_name": "Topaz Ore",
+			"minecraft:display_name": "Deepslate Topaz Ore",
 			"minecraft:material_instances": {
 				"*": {
 					"texture": "topaz_deep_ore",
