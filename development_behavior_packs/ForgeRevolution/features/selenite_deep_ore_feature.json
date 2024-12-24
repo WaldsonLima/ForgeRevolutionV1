@@ -2,12 +2,12 @@
 	"format_version": "1.17.0",
 	"minecraft:ore_feature": {
 		"description": {
-			"identifier": "forge:ice_crystal_deep_ore_feature"
+			"identifier": "forge:selenite_deep_ore_feature"
 		},
 		"count": 8,
 		"replace_rules": [
 			{
-				"places_block": "forge:ice_crystal_deep_ore",
+				"places_block": "forge:selenite_deep_ore",
 				"may_replace": ["minecraft:deepslate"]
 			}
 		]

@@ -2,13 +2,13 @@
     "format_version": "1.21.40",
     "minecraft:item": {
         "description": {
-            "identifier": "forge:ice_crystal",
+            "identifier": "forge:selenite",
             "menu_category": {
                 "category": "items"
             }
         },
         "components": {
-            "minecraft:icon": "ice_crystal",
+            "minecraft:icon": "selenite",
             "minecraft:display_name": {
                 "value": "Iceland Crystal"
             },

@@ -58,11 +58,11 @@
 		"sapphire_deep_ore": {
 			"textures": "textures/blocks/sapphire_deep_ore.png"
 		},
-		"ice_crystal_ore": {
-			"textures": "textures/blocks/ice_crystal_ore.png"
+		"selenite_ore": {
+			"textures": "textures/blocks/selenite_ore.png"
 		},
-		"ice_crystal_deep_ore": {
-			"textures": "textures/blocks/ice_crystal_deep_ore.png"
+		"selenite_deep_ore": {
+			"textures": "textures/blocks/selenite_deep_ore.png"
 		},
 		"garnet_ore": {
 			"textures": "textures/blocks/garnet_ore.png"
@@ -94,8 +94,8 @@
 		"sapphire_block": {
 			"textures": "textures/blocks/sapphire_block.png"
 		},
-		"ice_crystal_block": {
-			"textures": "textures/blocks/ice_crystal_block.png"
+		"selenite_block": {
+			"textures": "textures/blocks/selenite_block.png"
 		},
 		"compacted_amethyst": {
 			"textures": "textures/blocks/compacted_amethyst.png"

@@ -2,8 +2,8 @@
 	"format_version": "1.21.50",
 	"minecraft:feature_rules": {
 		"description": {
-			"identifier": "forge:overworld_underground_ice_crystal_ore_feature_1",
-			"places_feature": "forge:ice_crystal_ore_feature"
+			"identifier": "forge:overworld_underground_selenite_deep_ore_feature_2",
+			"places_feature": "forge:selenite_deep_ore_feature"
 		},
 		"conditions": {
 			"placement_pass": "underground_pass",
@@ -60,7 +60,7 @@
 			]
 		},
 		"distribution": {
-			"iterations": 7,
+			"iterations": 2,
 			"coordinate_eval_order": "zyx",
 			"x": {
 				"distribution": "uniform",
@@ -69,8 +69,8 @@
 			"y": {
 				"distribution": "uniform",
 				"extent": [
-					30,
-					150
+					-60,
+					-30
 				]
 			},
 			"z": {

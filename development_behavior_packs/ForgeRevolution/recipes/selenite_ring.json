@@ -2,23 +2,23 @@
     "format_version": "1.21.50",
     "minecraft:recipe_shaped": {
         "description": {
-            "identifier": "forge:ice_crystal"
+            "identifier": "forge:selenite_ring"
         },
         "tags": ["crafting_table"],
         "pattern": [
-            "x"
+            "xxx",
+            "xyx",
+            "xxx"
         ],
         "key": {
-            "x": "forge:ice_crystal_block"
+            "x": "forge:selenite",
+            "y": "forge:ring_mold"
         },
         "unlock": [
             {
-                "item": "forge:ice_crystal_block"
+                "item": "forge:selenite"
             }
         ],
-        "result": {
-            "item": "forge:ice_crystal",
-            "count": 9
-        }
+        "result": "forge:selenite_ring"
     }
 }

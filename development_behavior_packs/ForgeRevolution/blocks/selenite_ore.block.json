@@ -2,9 +2,10 @@
 	"format_version": "1.20.20",
 	"minecraft:block": {
 		"description": {
-			"identifier": "forge:ice_crystal_block",
+			"identifier": "forge:selenite_ore",
 			"menu_category": {
-				"category": "construction"
+				"category": "nature",
+				"group": "itemGroup.name.ore"
 			}
 		},
 		"components": {
@@ -17,14 +18,15 @@
 				"explosion_resistance": 30
 			},
 			"minecraft:geometry": "geometry.all_forge_blocks",
-			"minecraft:display_name": "Ice Crystal Block",
+			"minecraft:display_name": "Iceland Crystal Ore",
 			"minecraft:material_instances": {
 				"*": {
-					"texture": "ice_crystal_block",
+					"texture": "selenite_ore",
 					"render_method": "alpha_test"
 				}
 			},
-			"minecraft:map_color": "#ffffff"
+			"minecraft:map_color": "#ffffff",
+			"minecraft:loot": "loot_tables/blocks/selenite.json"
 		}
 	}
 }

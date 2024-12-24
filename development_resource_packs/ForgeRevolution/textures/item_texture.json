@@ -32,8 +32,8 @@
         "sapphire": {
             "textures": "textures/items/sapphire.png"
         },
-        "ice_crystal": {
-            "textures": "textures/items/ice_crystal.png"
+        "selenite": {
+            "textures": "textures/items/selenite.png"
         },
         "stone_rod": {
             "textures": "textures/items/stone_rod.png"
@@ -42,6 +42,12 @@
             "textures": "textures/items/kunai_mold.png"
         },
         "katana_mold": {
+            "textures": "textures/items/katana_mold.png"
+        },
+        "battleaxe": {
+            "textures": "textures/items/katana_mold.png"
+        },
+        "dagger_mold": {
             "textures": "textures/items/katana_mold.png"
         },
         "greatsword_mold": {
@@ -83,8 +89,8 @@
         "garnet_ring": {
             "textures": "textures/items/garnet_ring.png"
         },
-        "ice_crystal_ring": {
-            "textures": "textures/items/ice_crystal_ring.png"
+        "selenite_ring": {
+            "textures": "textures/items/selenite_ring.png"
         },
         "jade_ring": {
             "textures": "textures/items/jade_ring.png"
@@ -103,6 +109,39 @@
         },
         "fluorite_longsword": {
 			"textures": "textures/items/fluorite_longsword.png"
+		},
+        "amethyst_kunai": {
+			"textures": "textures/items/amethyst_kunai.png"
+		},
+        "aquamarine_battleaxe": {
+			"textures": "textures/items/aquamarine_battleaxe.png"
+		},
+        "emerald_battleaxe": {
+			"textures": "textures/items/emerald_battleaxe.png"
+		},
+        "garnet_hammer": {
+			"textures": "textures/items/garnet_hammer.png"
+		},
+        "jade_katana": {
+			"textures": "textures/items/jade_katana.png"
+		},
+        "rhodochrosite_kunai": {
+			"textures": "textures/items/rhodochrosite_kunai.png"
+		},
+        "ruby_dagger": {
+			"textures": "textures/items/ruby_dagger.png"
+		},
+        "sapphire_dagger": {
+			"textures": "textures/items/sapphire_dagger.png"
+		},
+        "selenite_hammer": {
+			"textures": "textures/items/selenite_hammer.png"
+		},
+        "titanite_longsword": {
+			"textures": "textures/items/titanite_longsword.png"
+		},
+        "topaz_katana": {
+			"textures": "textures/items/topaz_katana.png"
 		}
     }
 }

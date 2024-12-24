@@ -295,11 +295,11 @@
                   "subject": "self",
                   "domain": "hand",
                   "operator": "==",
-                  "value": "forge:ice_crystal_ring"
+                  "value": "forge:selenite_ring"
                 }
               ]
             },
-            "event": "forge:ice_crystal_ring_event"
+            "event": "forge:selenite_ring_event"
           },
           {
             "filters": {
@@ -439,7 +439,7 @@
             }
           ]
       },
-      "forge:ice_crystal_ring_event": {
+      "forge:selenite_ring_event": {
         "sequence": [
             {
               "queue_command": {

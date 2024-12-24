@@ -2,7 +2,7 @@
     "format_version": "1.21.50",
     "minecraft:recipe_shaped": {
         "description": {
-            "identifier": "forge:ice_crystal_block"
+            "identifier": "forge:selenite_block"
         },
         "tags": ["crafting_table"],
         "pattern": [
@@ -11,13 +11,13 @@
             "xxx"
         ],
         "key": {
-            "x": "forge:ice_crystal"
+            "x": "forge:selenite"
         },
         "unlock": [
             {
-                "item": "forge:ice_crystal"
+                "item": "forge:selenite"
             }
         ],
-        "result": "forge:ice_crystal_block"
+        "result": "forge:selenite_block"
     }
 }
