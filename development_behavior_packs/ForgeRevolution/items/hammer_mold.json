@@ -10,7 +10,7 @@
         "components": {
             "minecraft:icon": "hammer_mold",
             "minecraft:display_name": {
-                "value": "Hammer Mold"
+                "value": "tile.forge:hammer_mold.name"
             },
             "minecraft:max_stack_size": {
                 "value": 64

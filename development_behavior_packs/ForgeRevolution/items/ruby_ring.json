@@ -12,7 +12,7 @@
             "minecraft:hand_equipped": true,
             "minecraft:icon": "ruby_ring",
             "minecraft:display_name": {
-                "value": "Ruby Ring"
+                "value": "tile.forge:ruby_ring.name"
             },
             "minecraft:allow_off_hand": {
                 "value": true

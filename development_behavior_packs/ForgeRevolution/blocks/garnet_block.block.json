@@ -17,7 +17,7 @@
 				"explosion_resistance": 30
 			},
 			"minecraft:geometry": "geometry.all_forge_blocks",
-			"minecraft:display_name": "Garnet Block",
+			"minecraft:display_name": "tile.forge:garnet_block.name",
 			"minecraft:material_instances": {
 				"*": {
 					"texture": "garnet_block",

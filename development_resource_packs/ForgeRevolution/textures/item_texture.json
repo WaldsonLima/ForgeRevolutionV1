@@ -44,14 +44,14 @@
         "katana_mold": {
             "textures": "textures/items/katana_mold.png"
         },
-        "battleaxe": {
-            "textures": "textures/items/katana_mold.png"
+        "battleaxe_mold": {
+            "textures": "textures/items/battleaxe_mold.png"
         },
         "dagger_mold": {
-            "textures": "textures/items/katana_mold.png"
+            "textures": "textures/items/dagger_mold.png"
         },
-        "greatsword_mold": {
-            "textures": "textures/items/greatsword_mold.png"
+        "longsword_mold": {
+            "textures": "textures/items/longsword_mold.png"
         },
         "hammer_mold": {
             "textures": "textures/items/hammer_mold.png"

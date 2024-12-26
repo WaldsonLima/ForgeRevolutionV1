@@ -12,7 +12,7 @@
             "minecraft:hand_equipped": true,
             "minecraft:icon": "topaz_ring",
             "minecraft:display_name": {
-                "value": "Topaz Ring"
+                "value": "tile.forge:topaz_ring.name"
             },
             "minecraft:allow_off_hand": {
                 "value": true

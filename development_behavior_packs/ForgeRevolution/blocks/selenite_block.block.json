@@ -17,7 +17,7 @@
 				"explosion_resistance": 30
 			},
 			"minecraft:geometry": "geometry.all_forge_blocks",
-			"minecraft:display_name": "Selenite Block",
+			"minecraft:display_name": "tile.forge:selenite_block.name",
 			"minecraft:material_instances": {
 				"*": {
 					"texture": "selenite_block",

@@ -10,7 +10,7 @@
         "components": {
             "minecraft:icon": "ruby",
             "minecraft:display_name": {
-                "value": "Ruby"
+                "value": "tile.forge:ruby.name"
             },
             "minecraft:max_stack_size": {
                 "value": 64

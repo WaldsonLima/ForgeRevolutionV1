@@ -17,7 +17,7 @@
 				"explosion_resistance": 30
 			},
 			"minecraft:geometry": "geometry.all_forge_blocks",
-			"minecraft:display_name": "Topaz Block",
+			"minecraft:display_name": "tile.forge:topaz_block.name",
 			"minecraft:material_instances": {
 				"*": {
 					"texture": "topaz_block",

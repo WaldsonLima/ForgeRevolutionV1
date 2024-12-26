@@ -12,7 +12,7 @@
             "minecraft:hand_equipped": true,
             "minecraft:icon": "jade_ring",
             "minecraft:display_name": {
-                "value": "Jade Ring"
+                "value": "tile.forge:jade_ring.name"
             },
             "minecraft:allow_off_hand": {
                 "value": true

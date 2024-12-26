@@ -12,7 +12,7 @@
             "minecraft:hand_equipped": true,
             "minecraft:icon": "amethyst_ring",
             "minecraft:display_name": {
-                "value": "Amethyst Ring"
+                "value": "tile.forge:amethyst_ring.name"
             },
             "minecraft:allow_off_hand": {
                 "value": true

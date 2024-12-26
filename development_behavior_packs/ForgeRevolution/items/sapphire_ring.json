@@ -12,7 +12,7 @@
             "minecraft:hand_equipped": true,
             "minecraft:icon": "sapphire_ring",
             "minecraft:display_name": {
-                "value": "Sapphire Ring"
+                "value": "tile.forge:sapphire_ring.name"
             },
             "minecraft:allow_off_hand": {
                 "value": true

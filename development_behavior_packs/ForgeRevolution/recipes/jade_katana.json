@@ -1,0 +1,24 @@
+{
+    "format_version": "1.21.50",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "jade_katana"
+        },
+        "tags": ["crafting_table"],
+        "pattern": [
+            "xxx",
+            "xyx",
+            "xxx"
+        ],
+        "key": {
+            "x": "forge:jade",
+            "y": "forge:katana_mold"
+        },
+        "unlock": [
+            {
+                "item": "forge:jade"
+            }
+        ],
+        "result": "forge:jade_katana"
+    }
+}

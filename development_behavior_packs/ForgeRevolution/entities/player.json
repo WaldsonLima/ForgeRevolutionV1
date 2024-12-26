@@ -239,20 +239,6 @@
                   "subject": "self",
                   "domain": "hand",
                   "operator": "==",
-                  "value": "forge:amethyst_ring"
-                }
-              ]
-            },
-            "event": "forge:amethyst_ring_event"
-          },
-          {
-            "filters": {
-              "all_of": [
-                {
-                  "test": "has_equipment",
-                  "subject": "self",
-                  "domain": "hand",
-                  "operator": "==",
                   "value": "forge:emerald_ring"
                 }
               ]
@@ -399,15 +385,6 @@
             {
               "queue_command": {
                   "command": "effect @s water_breathing 2 1"
-              }
-            }
-          ]
-      },
-      "forge:amethyst_ring_event": {
-        "sequence": [
-            {
-              "queue_command": {
-                  "command": ""
               }
             }
           ]

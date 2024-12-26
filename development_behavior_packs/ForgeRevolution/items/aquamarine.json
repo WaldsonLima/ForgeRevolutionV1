@@ -14,7 +14,7 @@
                 }
             },
             "minecraft:display_name": {
-                "value": "Aquamarine"
+                "value": "tile.forge:aquamarine.name"
             },
             "minecraft:max_stack_size": {
                 "value": 64

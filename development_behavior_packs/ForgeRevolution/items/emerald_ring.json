@@ -12,7 +12,7 @@
             "minecraft:hand_equipped": true,
             "minecraft:icon": "emerald_ring",
             "minecraft:display_name": {
-                "value": "Emerald Ring"
+                "value": "tile.forge:emerald_ring.name"
             },
             "minecraft:allow_off_hand": {
                 "value": true

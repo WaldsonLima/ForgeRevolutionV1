@@ -10,7 +10,7 @@
         "components": {
             "minecraft:icon": "stone_rod",
             "minecraft:display_name": {
-                "value": "Stone Rod"
+                "value": "tile.forge:stone_rod.name"
             },
             "minecraft:max_stack_size": {
                 "value": 64

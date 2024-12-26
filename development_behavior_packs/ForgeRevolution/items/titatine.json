@@ -10,7 +10,7 @@
         "components": {
             "minecraft:icon": "titanite",
             "minecraft:display_name": {
-                "value": "Titanite"
+                "value": "tile.forge:titanite.name"
             },
             "minecraft:max_stack_size": {
                 "value": 64

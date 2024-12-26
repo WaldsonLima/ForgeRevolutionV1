@@ -10,7 +10,7 @@
         "components": {
             "minecraft:icon": "forge_coal",
             "minecraft:display_name": {
-                "value": "Forge Coal"
+                "value": "tile.forge:forge_coal.name"
             },
             "minecraft:max_stack_size": {
                 "value": 64

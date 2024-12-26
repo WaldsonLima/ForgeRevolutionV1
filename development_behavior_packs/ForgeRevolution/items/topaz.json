@@ -10,7 +10,7 @@
         "components": {
             "minecraft:icon": "topaz",
             "minecraft:display_name": {
-                "value": "Topaz"
+                "value": "tile.forge:topaz.name"
             },
             "minecraft:max_stack_size": {
                 "value": 64

@@ -1,0 +1,24 @@
+{
+    "format_version": "1.21.50",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "selenite_hammer"
+        },
+        "tags": ["crafting_table"],
+        "pattern": [
+            "xxx",
+            "xyx",
+            "xxx"
+        ],
+        "key": {
+            "x": "forge:selenite",
+            "y": "forge:hammer_mold"
+        },
+        "unlock": [
+            {
+                "item": "forge:selenite"
+            }
+        ],
+        "result": "forge:selenite_hammer"
+    }
+}

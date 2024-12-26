@@ -10,7 +10,7 @@
         "components": {
             "minecraft:icon": "kunai_mold",
             "minecraft:display_name": {
-                "value": "Kunai Mold"
+                "value": "tile.forge:kunai_mold.name"
             },
             "minecraft:max_stack_size": {
                 "value": 64

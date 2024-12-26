@@ -2,7 +2,7 @@
     "format_version": "1.21.50",
     "minecraft:recipe_shaped": {
         "description": {
-            "identifier": "forge:greatsword_mold"
+            "identifier": "forge:longsword_mold"
         },
         "tags": ["crafting_table"],
         "pattern": [
@@ -19,6 +19,6 @@
                 "item": "minecraft:stone"
             }
         ],
-        "result": "forge:greatsword_mold"
+        "result": "forge:longsword_mold"
     }
 }

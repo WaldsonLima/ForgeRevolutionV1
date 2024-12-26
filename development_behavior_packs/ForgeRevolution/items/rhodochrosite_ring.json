@@ -12,7 +12,7 @@
             "minecraft:hand_equipped": true,
             "minecraft:icon": "rhodochrosite_ring",
             "minecraft:display_name": {
-                "value": "Rhodochrosite Ring"
+                "value": "tile.forge:rhodochrosite_ring.name"
             },
             "minecraft:allow_off_hand": {
                 "value": true

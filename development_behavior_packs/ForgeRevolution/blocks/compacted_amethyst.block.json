@@ -17,7 +17,7 @@
 				"explosion_resistance": 30
 			},
 			"minecraft:geometry": "geometry.all_forge_blocks",
-			"minecraft:display_name": "Compacted Amethyst",
+			"minecraft:display_name": "tile.forge:compacted_amethyst.name",
 			"minecraft:material_instances": {
 				"*": {
 					"texture": "compacted_amethyst",

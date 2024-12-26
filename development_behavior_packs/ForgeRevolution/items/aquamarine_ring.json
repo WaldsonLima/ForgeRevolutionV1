@@ -12,7 +12,7 @@
             "minecraft:hand_equipped": true,
             "minecraft:icon": "aquamarine_ring",
             "minecraft:display_name": {
-                "value": "Aquamarine Ring"
+                "value": "tile.forge:aquamarine_ring.name"
             },
             "minecraft:allow_off_hand": {
                 "value": true

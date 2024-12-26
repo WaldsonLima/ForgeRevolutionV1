@@ -18,7 +18,7 @@
 				"explosion_resistance": 30
 			},
 			"minecraft:geometry": "geometry.all_forge_blocks",
-			"minecraft:display_name": "Sandstone Ruby Ore",
+			"minecraft:display_name": "tile.forge:ruby_ore_sand.name",
 			"minecraft:material_instances": {
 				"*": {
 					"texture": "ruby_ore_sand",

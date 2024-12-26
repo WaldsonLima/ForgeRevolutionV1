@@ -10,7 +10,7 @@
         "components": {
             "minecraft:icon": "sapphire",
             "minecraft:display_name": {
-                "value": "Sapphire"
+                "value": "tile.forge:sapphire.name"
             },
             "minecraft:max_stack_size": {
                 "value": 64
