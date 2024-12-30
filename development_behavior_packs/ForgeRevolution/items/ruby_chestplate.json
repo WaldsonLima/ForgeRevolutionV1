@@ -1,0 +1,38 @@
+{
+	"format_version": "1.21.50",
+	"minecraft:item": {
+		"description": {
+			"identifier": "forge:ruby_chestplate",
+			"menu_category": {
+				"category": "equipment",
+				"group": "itemGroup.name.chestplate"
+			}
+		},
+		"components": {
+			"minecraft:max_stack_size": 1,
+			"minecraft:icon": "ruby_chestplate",
+			"minecraft:display_name": {
+                "value": "tile.forge:ruby_dagger.name"
+            },
+			"minecraft:wearable": {
+				"slot": "slot.armor.chest",
+				"protection": 10
+			},
+			"minecraft:enchantable": {
+				"slot": "armor_torso",
+				"value": 9
+			},
+			"minecraft:durability": {
+				"max_durability": 1255
+			},
+			"minecraft:repairable": {
+				"repair_items": [
+					{
+						"items": ["iron_ingot"],
+						"repair_amount": 313
+					}
+				]
+			}
+		}
+	}
+}

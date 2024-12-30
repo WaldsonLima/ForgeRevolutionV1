@@ -142,6 +142,30 @@
 		},
         "topaz_katana": {
 			"textures": "textures/items/topaz_katana.png"
-		}
+		},
+        "sapphire_helmet": {
+			"textures": "textures/items/sapphire_helmet.png"
+		},
+        "sapphire_chestplate": {
+            "textures": "textures/items/sapphire_chestplate.png"
+        },
+        "sapphire_leggings": {
+            "textures": "textures/items/sapphire_leggings.png"
+        },
+        "sapphire_boots": {
+            "textures": "textures/items/sapphire_boots.png"
+        },
+        "ruby_helmet": {
+            "textures": "textures/items/ruby_helmet.png"
+        },
+        "ruby_chestplate": {
+            "textures": "textures/items/ruby_chestplate.png"
+        },
+        "ruby_leggings": {
+            "textures": "textures/items/ruby_leggings.png"
+        },
+        "ruby_boots": {
+            "textures": "textures/items/ruby_boots.png"
+        }
     }
 }
