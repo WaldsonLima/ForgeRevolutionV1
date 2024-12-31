@@ -12,24 +12,24 @@
 			"minecraft:max_stack_size": 1,
 			"minecraft:icon": "ruby_chestplate",
 			"minecraft:display_name": {
-                "value": "tile.forge:ruby_dagger.name"
+                "value": "tile.forge:ruby_chestplate.name"
             },
 			"minecraft:wearable": {
 				"slot": "slot.armor.chest",
-				"protection": 10
+				"protection": 8
 			},
 			"minecraft:enchantable": {
 				"slot": "armor_torso",
-				"value": 9
+				"value": 25
 			},
 			"minecraft:durability": {
-				"max_durability": 1255
+				"max_durability": 528
 			},
 			"minecraft:repairable": {
 				"repair_items": [
 					{
-						"items": ["iron_ingot"],
-						"repair_amount": 313
+						"items": ["forge:ruby"],
+						"repair_amount": 132
 					}
 				]
 			}

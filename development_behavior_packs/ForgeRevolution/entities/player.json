@@ -174,48 +174,13 @@
                 {
                   "test": "has_equipment",
                   "subject": "self",
-                  "domain": "head",
-                  "operator": "==",
-                  "value": "wiki:royal_blood_helmet"
-                },
-                {
-                  "test": "has_equipment",
-                  "subject": "self",
-                  "domain": "torso",
-                  "operator": "==",
-                  "value": "wiki:royal_blood_chestplate"
-                },
-                {
-                  "test": "has_equipment",
-                  "subject": "self",
-                  "domain": "leg",
-                  "operator": "==",
-                  "value": "wiki:royal_blood_leggings"
-                },
-                {
-                  "test": "has_equipment",
-                  "subject": "self",
-                  "domain": "feet",
-                  "operator": "==",
-                  "value": "wiki:royal_blood_boots"
-                }
-              ]
-            },
-            "event": "wiki:royal_blood_armor"
-          },
-          {
-            "filters": {
-              "all_of": [
-                {
-                  "test": "has_equipment",
-                  "subject": "self",
                   "domain": "hand",
                   "operator": "==",
                   "value": "forge:topaz_ring"
                 }
               ]
             },
-            "event": "forge:topaz_ring_event"
+            "event": "forge:topaz_event"
           },
           {
             "filters": {
@@ -229,7 +194,7 @@
                 }
               ]
             },
-            "event": "forge:aquamarine_ring_event"
+            "event": "forge:aquamarine_event"
           },
           {
             "filters": {
@@ -243,7 +208,7 @@
                 }
               ]
             },
-            "event": "forge:emerald_ring_event"
+            "event": "forge:emerald_event"
           },
           {
             "filters": {
@@ -257,7 +222,7 @@
                 }
               ]
             },
-            "event": "forge:fluorite_ring_event"
+            "event": "forge:fluorite_event"
           },
           {
             "filters": {
@@ -271,7 +236,7 @@
                 }
               ]
             },
-            "event": "forge:garnet_ring_event"
+            "event": "forge:garnet_event"
           },
           {
             "filters": {
@@ -285,7 +250,7 @@
                 }
               ]
             },
-            "event": "forge:selenite_ring_event"
+            "event": "forge:selenite_event"
           },
           {
             "filters": {
@@ -299,7 +264,7 @@
                 }
               ]
             },
-            "event": "forge:jade_ring_event"
+            "event": "forge:jade_event"
           },
           {
             "filters": {
@@ -313,7 +278,7 @@
                 }
               ]
             },
-            "event": "forge:rhodochrosite_ring_event"
+            "event": "forge:rhodochrosite_event"
           },
           {
             "filters": {
@@ -327,7 +292,7 @@
                 }
               ]
             },
-            "event": "forge:ruby_ring_event"
+            "event": "forge:ruby_event"
           },
           {
             "filters": {
@@ -341,7 +306,7 @@
                 }
               ]
             },
-            "event": "forge:sapphire_ring_event"
+            "event": "forge:sapphire_event"
           },
           {
             "filters": {
@@ -355,23 +320,84 @@
                 }
               ]
             },
-            "event": "forge:titanite_ring_event"
+            "event": "forge:titanite_event"
+          },
+          {
+            "filters": {
+              "all_of": [
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "head",
+                  "operator": "==",
+                  "value": "forge:ruby_helmet"
+                },
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "torso",
+                  "operator": "==",
+                  "value": "forge:ruby_chestplate"
+                },
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "leg",
+                  "operator": "==",
+                  "value": "forge:ruby_leggings"
+                },
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "feet",
+                  "operator": "==",
+                  "value": "forge:ruby_boots"
+                }
+              ]
+            },
+            "event": "forge:ruby_event"
+          },
+          {
+            "filters": {
+              "all_of": [
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "head",
+                  "operator": "==",
+                  "value": "forge:sapphire_helmet"
+                },
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "torso",
+                  "operator": "==",
+                  "value": "forge:sapphire_chestplate"
+                },
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "leg",
+                  "operator": "==",
+                  "value": "forge:sapphire_leggings"
+                },
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "feet",
+                  "operator": "==",
+                  "value": "forge:sapphire_boots"
+                }
+              ]
+            },
+            "event": "forge:sapphire_event"
           }
         ]
       }
     },
 
     "events": {
-      "wiki:royal_blood_armor": {
-        "sequence": [
-          {
-            "queue_command": {
-                "command": "effect @s health_boost 2 0"
-            }
-          }
-        ]
-      },
-      "forge:topaz_ring_event": {
+      "forge:topaz_event": {
         "sequence": [
           {
             "queue_command": {
@@ -380,7 +406,7 @@
           }
         ]
       },
-      "forge:aquamarine_ring_event": {
+      "forge:aquamarine_event": {
         "sequence": [
             {
               "queue_command": {
@@ -389,7 +415,7 @@
             }
           ]
       },
-      "forge:emerald_ring_event": {
+      "forge:emerald_event": {
         "sequence": [
             {
               "queue_command": {
@@ -398,7 +424,7 @@
             }
           ]
       },
-      "forge:fluorite_ring_event": {
+      "forge:fluorite_event": {
         "sequence": [
             {
               "queue_command": {
@@ -407,7 +433,7 @@
             }
           ]
       },
-      "forge:garnet_ring_event": {
+      "forge:garnet_event": {
         "sequence": [
             {
               "queue_command": {
@@ -416,7 +442,7 @@
             }
           ]
       },
-      "forge:selenite_ring_event": {
+      "forge:selenite_event": {
         "sequence": [
             {
               "queue_command": {
@@ -425,7 +451,7 @@
             }
           ]
       },
-      "forge:jade_ring_event": {
+      "forge:jade_event": {
         "sequence": [
             {
               "queue_command": {
@@ -434,7 +460,7 @@
             }
           ]
       },
-      "forge:rhodochrosite_ring_event": {
+      "forge:rhodochrosite_event": {
         "sequence": [
             {
               "queue_command": {
@@ -443,7 +469,7 @@
             }
           ]
       },
-      "forge:ruby_ring_event": {
+      "forge:ruby_event": {
         "sequence": [
             {
               "queue_command": {
@@ -452,16 +478,16 @@
             }
           ]
       },
-      "forge:sapphire_ring_event": {
+      "forge:sapphire_event": {
         "sequence": [
             {
               "queue_command": {
-                  "command": "effect @s night_vision 2 1"
+                  "command": "effect @s night_vision 12 1"
               }
             }
           ]
       },
-      "forge:titanite_ring_event": {
+      "forge:titanite_event": {
         "sequence": [
             {
               "queue_command": {

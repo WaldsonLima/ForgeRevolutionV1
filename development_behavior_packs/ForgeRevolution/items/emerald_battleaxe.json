@@ -14,7 +14,7 @@
 			"minecraft:display_name": {
                 "value": "tile.forge:emerald_battleaxe.name"
             },
-            "minecraft:damage": 10,
+            "minecraft:damage": 12,
 			"minecraft:can_destroy_in_creative": false,
 			"minecraft:hand_equipped": true,
 			"minecraft:enchantable": {
@@ -22,7 +22,7 @@
 				"value": 25
 			},
 			"minecraft:durability": {
-				"max_durability": 900
+				"max_durability": 1000
 			},
 			"minecraft:repairable": {
 				"repair_items": [

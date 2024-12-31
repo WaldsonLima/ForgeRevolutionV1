@@ -16,20 +16,20 @@
             },
             "minecraft:wearable": {
 				"slot": "slot.armor.head",
-				"protection": 6
+				"protection": 3
 			},
 			"minecraft:enchantable": {
 				"slot": "armor_head",
-				"value": 9
+				"value": 25
 			},
 			"minecraft:durability": {
-				"max_durability": 1000
+				"max_durability": 528
 			},
 			"minecraft:repairable": {
 				"repair_items": [
 					{
 						"items": ["forge:sapphire"],
-						"repair_amount": 62
+						"repair_amount": 132
 					}
 				]
 			}

@@ -22,7 +22,7 @@
 				"value": 25
 			},
 			"minecraft:durability": {
-				"max_durability": 900
+				"max_durability": 1200
 			},
 			"minecraft:repairable": {
 				"repair_items": [
@@ -31,7 +31,10 @@
 						"repair_amount": 62
 					}
 				]
-			}
+			},
+			"minecraft:custom_components": [
+                "forge:jade_katana"
+            ]
 		}
     }
 }

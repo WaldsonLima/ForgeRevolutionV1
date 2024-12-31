@@ -14,7 +14,7 @@
 			"minecraft:display_name": {
                 "value": "tile.forge:garnet_hammer.name"
             },
-            "minecraft:damage": 10,
+            "minecraft:damage": 14,
 			"minecraft:can_destroy_in_creative": false,
 			"minecraft:hand_equipped": true,
 			"minecraft:enchantable": {
