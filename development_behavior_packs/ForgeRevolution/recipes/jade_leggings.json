@@ -1,0 +1,24 @@
+{
+    "format_version": "1.21.50",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "forge:jade_leggings"
+        },
+        "tags": ["crafting_table"],
+        "pattern": [
+            "xxx",
+            "xyx",
+            "xxx"
+        ],
+        "key": {
+            "x": "forge:jade",
+            "y": "forge:leggings_mold"
+        },
+        "unlock": [
+            {
+                "item": "forge:jade"
+            }
+        ],
+        "result": "forge:jade_leggings"
+    }
+}

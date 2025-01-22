@@ -166,6 +166,18 @@
         },
         "ruby_boots": {
             "textures": "textures/items/ruby_boots.png"
+        },
+        "jade_helmet": {
+            "textures": "textures/items/jade_helmet.png"
+        },
+        "jade_chestplate": {
+            "textures": "textures/items/jade_chestplate.png"
+        },
+        "jade_leggings": {
+            "textures": "textures/items/jade_leggings.png"
+        },
+        "jade_boots": {
+            "textures": "textures/items/jade_boots.png"
         }
     }
 }
