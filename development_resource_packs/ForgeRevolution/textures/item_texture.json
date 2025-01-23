@@ -178,6 +178,30 @@
         },
         "jade_boots": {
             "textures": "textures/items/jade_boots.png"
+        },
+        "aquamarine_helmet": {
+            "textures": "textures/items/aquamarine_helmet.png"
+        },
+        "aquamarine_chestplate": {
+            "textures": "textures/items/aquamarine_chestplate.png"
+        },
+        "aquamarine_leggings": {
+            "textures": "textures/items/aquamarine_leggings.png"
+        },
+        "aquamarine_boots": {
+            "textures": "textures/items/aquamarine_boots.png"
+        },
+        "rhodochrosite_helmet": {
+            "textures": "textures/items/rhodochrosite_helmet.png"
+        },
+        "rhodochrosite_chestplate": {
+            "textures": "textures/items/rhodochrosite_chestplate.png"
+        },
+        "rhodochrosite_leggings": {
+            "textures": "textures/items/rhodochrosite_leggings.png"
+        },
+        "rhodochrosite_boots": {
+            "textures": "textures/items/rhodochrosite_boots.png"
         }
     }
 }

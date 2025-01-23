@@ -1,0 +1,38 @@
+{
+	"format_version": "1.21.50",
+	"minecraft:item": {
+		"description": {
+			"identifier": "forge:aquamarine_chestplate",
+			"menu_category": {
+				"category": "equipment",
+				"group": "itemGroup.name.chestplate"
+			}
+		},
+		"components": {
+			"minecraft:max_stack_size": 1,
+			"minecraft:icon": "aquamarine_chestplate",
+			"minecraft:display_name": {
+                "value": "tile.forge:aquamarine_chestplate.name"
+            },
+			"minecraft:wearable": {
+				"slot": "slot.armor.chest",
+				"protection": 8
+			},
+			"minecraft:enchantable": {
+				"slot": "armor_torso",
+				"value": 25
+			},
+			"minecraft:durability": {
+				"max_durability": 528
+			},
+			"minecraft:repairable": {
+				"repair_items": [
+					{
+						"items": ["forge:aquamarine"],
+						"repair_amount": 132
+					}
+				]
+			}
+		}
+	}
+}

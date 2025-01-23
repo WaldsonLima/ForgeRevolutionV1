@@ -1,0 +1,38 @@
+{
+	"format_version": "1.21.50",
+	"minecraft:item": {
+		"description": {
+			"identifier": "forge:aquamarine_leggings",
+			"menu_category": {
+				"category": "equipment",
+				"group": "itemGroup.name.leggings"
+			}
+		},
+		"components": {
+			"minecraft:max_stack_size": 1,
+			"minecraft:icon": "aquamarine_leggings",
+			"minecraft:display_name": {
+                "value": "tile.forge:aquamarine_leggings.name"
+            },
+			"minecraft:wearable": {
+				"slot": "slot.armor.legs",
+				"protection": 6
+			},
+			"minecraft:enchantable": {
+				"slot": "armor_legs",
+				"value": 25
+			},
+			"minecraft:durability": {
+				"max_durability": 576
+			},
+			"minecraft:repairable": {
+				"repair_items": [
+					{
+						"items": ["forge:aquamarine"],
+						"repair_amount": 144
+					}
+				]
+			}
+		}
+	}
+}
