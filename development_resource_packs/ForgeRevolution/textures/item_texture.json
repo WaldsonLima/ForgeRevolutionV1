@@ -202,6 +202,18 @@
         },
         "rhodochrosite_boots": {
             "textures": "textures/items/rhodochrosite_boots.png"
+        },
+        "titanite_helmet": {
+            "textures": "textures/items/titanite_helmet.png"
+        },
+        "titanite_chestplate": {
+            "textures": "textures/items/titanite_chestplate.png"
+        },
+        "titanite_leggings": {
+            "textures": "textures/items/titanite_leggings.png"
+        },
+        "titanite_boots": {
+            "textures": "textures/items/titanite_boots.png"
         }
     }
 }
