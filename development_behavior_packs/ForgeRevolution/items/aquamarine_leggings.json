@@ -23,13 +23,13 @@
 				"value": 25
 			},
 			"minecraft:durability": {
-				"max_durability": 576
+				"max_durability": 595
 			},
 			"minecraft:repairable": {
 				"repair_items": [
 					{
 						"items": ["forge:aquamarine"],
-						"repair_amount": 144
+						"repair_amount": 124
 					}
 				]
 			}

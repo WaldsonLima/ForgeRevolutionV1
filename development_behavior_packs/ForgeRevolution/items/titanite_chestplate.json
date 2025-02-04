@@ -16,20 +16,20 @@
             },
 			"minecraft:wearable": {
 				"slot": "slot.armor.chest",
-				"protection": 6
+				"protection": 8
 			},
 			"minecraft:enchantable": {
 				"slot": "armor_torso",
 				"value": 25
 			},
 			"minecraft:durability": {
-				"max_durability": 240
+				"max_durability": 528
 			},
 			"minecraft:repairable": {
 				"repair_items": [
 					{
 						"items": ["forge:titanite"],
-						"repair_amount": 60
+						"repair_amount": 130
 					}
 				]
 			}

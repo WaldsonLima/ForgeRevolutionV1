@@ -391,6 +391,146 @@
               ]
             },
             "event": "forge:sapphire_event"
+          },
+          {
+            "filters": {
+              "all_of": [
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "head",
+                  "operator": "==",
+                  "value": "forge:aquamarine_helmet"
+                },
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "torso",
+                  "operator": "==",
+                  "value": "forge:aquamarine_chestplate"
+                },
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "leg",
+                  "operator": "==",
+                  "value": "forge:aquamarine_leggings"
+                },
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "feet",
+                  "operator": "==",
+                  "value": "forge:aquamarine_boots"
+                }
+              ]
+            },
+            "event": "forge:aquamarine_event"
+          },
+          {
+            "filters": {
+              "all_of": [
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "head",
+                  "operator": "==",
+                  "value": "forge:rhodochrosite_helmet"
+                },
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "torso",
+                  "operator": "==",
+                  "value": "forge:rhodochrosite_chestplate"
+                },
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "leg",
+                  "operator": "==",
+                  "value": "forge:rhodochrosite_leggings"
+                },
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "feet",
+                  "operator": "==",
+                  "value": "forge:rhodochrosite_boots"
+                }
+              ]
+            },
+            "event": "forge:rhodochrosite_event"
+          },
+          {
+            "filters": {
+              "all_of": [
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "head",
+                  "operator": "==",
+                  "value": "forge:jade_helmet"
+                },
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "torso",
+                  "operator": "==",
+                  "value": "forge:jade_chestplate"
+                },
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "leg",
+                  "operator": "==",
+                  "value": "forge:jade_leggings"
+                },
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "feet",
+                  "operator": "==",
+                  "value": "forge:jade_boots"
+                }
+              ]
+            },
+            "event": "forge:jade_event"
+          },
+          {
+            "filters": {
+              "all_of": [
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "head",
+                  "operator": "==",
+                  "value": "forge:titanite_helmet"
+                },
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "torso",
+                  "operator": "==",
+                  "value": "forge:titanite_chestplate"
+                },
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "leg",
+                  "operator": "==",
+                  "value": "forge:titanite_leggings"
+                },
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "feet",
+                  "operator": "==",
+                  "value": "forge:titanite_boots"
+                }
+              ]
+            },
+            "event": "forge:titanite_event"
           }
         ]
       }

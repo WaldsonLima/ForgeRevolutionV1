@@ -1,0 +1,44 @@
+{
+	"format_version": "1.21.50",
+	"minecraft:geometry": [
+		{
+			"description": {
+				"identifier": "geometry.ring",
+				"texture_width": 32,
+				"texture_height": 32,
+				"visible_bounds_width": 3,
+				"visible_bounds_height": 2.5,
+				"visible_bounds_offset": [0, 0.75, 0]
+			},
+			"bones": [
+				{
+					"name": "body",
+					"pivot": [0, 14, 0]
+				},
+				{
+					"name": "chestplate",
+					"parent": "body",
+					"pivot": [0, 0, 0],
+					"binding": "'body'"
+				},
+				{
+					"name": "arm_right",
+					"pivot": [-5, 12, 0]
+				},
+				{
+					"name": "arm_plate_right",
+					"parent": "arm_right",
+					"pivot": [-5, 12, 0],
+					"binding": "'rightarm'",
+					"cubes": [
+						{"origin": [-11, 5, -1], "size": [1, 1, 2], "uv": [26, 28]},
+						{"origin": [-11, 8, -1], "size": [1, 1, 2], "uv": [26, 28]},
+						{"origin": [-11, 6, -2], "size": [1, 2, 1], "uv": [27, 29]},
+						{"origin": [-11, 6, 1], "size": [1, 2, 1], "uv": [27, 29]},
+						{"origin": [-11, 6, -1], "size": [1, 2, 2], "uv": [0, 28]}
+					]
+				}
+			]
+		}
+	]
+}

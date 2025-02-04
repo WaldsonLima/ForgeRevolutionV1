@@ -16,20 +16,20 @@
             },
 			"minecraft:wearable": {
 				"slot": "slot.armor.head",
-				"protection": 2
+				"protection": 4
 			},
 			"minecraft:enchantable": {
 				"slot": "armor_head",
 				"value": 25
 			},
 			"minecraft:durability": {
-				"max_durability": 165
+				"max_durability": 528
 			},
 			"minecraft:repairable": {
 				"repair_items": [
 					{
 						"items": ["forge:jade"],
-						"repair_amount": 41
+						"repair_amount": 130
 					}
 				]
 			}

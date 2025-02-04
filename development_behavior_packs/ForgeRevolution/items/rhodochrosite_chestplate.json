@@ -29,7 +29,7 @@
 				"repair_items": [
 					{
 						"items": ["forge:rhodochrosite"],
-						"repair_amount": 132
+						"repair_amount": 130
 					}
 				]
 			}
