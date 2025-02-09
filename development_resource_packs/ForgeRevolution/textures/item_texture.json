@@ -214,6 +214,18 @@
         },
         "titanite_boots": {
             "textures": "textures/items/titanite_boots.png"
+        },
+        "garnet_helmet": {
+            "textures": "textures/items/garnet_helmet.png"
+        },
+        "garnet_chestplate": {
+            "textures": "textures/items/garnet_chestplate.png"
+        },
+        "garnet_leggings": {
+            "textures": "textures/items/garnet_leggings.png"
+        },
+        "garnet_boots": {
+            "textures": "textures/items/garnet_boots.png"
         }
     }
 }

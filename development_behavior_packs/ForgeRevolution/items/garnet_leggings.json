@@ -1,0 +1,38 @@
+{
+	"format_version": "1.20.50",
+	"minecraft:item": {
+		"description": {
+			"identifier": "forge:garnet_leggings",
+			"menu_category": {
+				"category": "equipment",
+				"group": "itemGroup.name.leggings"
+			}
+		},
+		"components": {
+			"minecraft:max_stack_size": 1,
+			"minecraft:icon": "garnet_leggings",
+            "minecraft:display_name": {
+                "value": "tile.forge:garnet_leggings.name"
+            },
+			"minecraft:wearable": {
+				"slot": "slot.armor.legs",
+				"protection": 6
+			},
+			"minecraft:enchantable": {
+				"slot": "armor_legs",
+				"value": 25
+			},
+			"minecraft:durability": {
+				"max_durability": 595
+			},
+			"minecraft:repairable": {
+				"repair_items": [
+					{
+						"items": ["forge:garnet_leggings"],
+						"repair_amount": 124
+					}
+				]
+			}
+		}
+	}
+}
