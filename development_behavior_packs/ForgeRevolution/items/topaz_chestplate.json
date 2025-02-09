@@ -1,0 +1,38 @@
+{
+	"format_version": "1.20.50",
+	"minecraft:item": {
+		"description": {
+			"identifier": "forge:topaz_chestplate",
+			"menu_category": {
+				"category": "equipment",
+				"group": "itemGroup.name.chestplate"
+			}
+		},
+		"components": {
+			"minecraft:max_stack_size": 1,
+			"minecraft:icon": "topaz_chestplate",
+            "minecraft:display_name": {
+                "value": "tile.forge:topaz_chestplate.name"
+            },
+			"minecraft:wearable": {
+				"slot": "slot.armor.chest",
+				"protection": 8
+			},
+			"minecraft:enchantable": {
+				"slot": "armor_torso",
+				"value": 25
+			},
+			"minecraft:durability": {
+				"max_durability": 528
+			},
+			"minecraft:repairable": {
+				"repair_items": [
+					{
+						"items": ["forge:topaz"],
+						"repair_amount": 130
+					}
+				]
+			}
+		}
+	}
+}

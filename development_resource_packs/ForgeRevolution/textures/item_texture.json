@@ -226,6 +226,18 @@
         },
         "garnet_boots": {
             "textures": "textures/items/garnet_boots.png"
+        },
+        "topaz_helmet": {
+            "textures": "textures/items/topaz_helmet.png"
+        },
+        "topaz_chestplate": {
+            "textures": "textures/items/topaz_chestplate.png"
+        },
+        "topaz_leggings": {
+            "textures": "textures/items/topaz_leggings.png"
+        },
+        "topaz_boots": {
+            "textures": "textures/items/topaz_boots.png"
         }
     }
 }
