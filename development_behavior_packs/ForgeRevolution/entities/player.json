@@ -531,6 +531,76 @@
               ]
             },
             "event": "forge:titanite_event"
+          },
+          {
+            "filters": {
+              "all_of": [
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "head",
+                  "operator": "==",
+                  "value": "forge:garnet_helmet"
+                },
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "torso",
+                  "operator": "==",
+                  "value": "forge:garnet_chestplate"
+                },
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "leg",
+                  "operator": "==",
+                  "value": "forge:garnet_leggings"
+                },
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "feet",
+                  "operator": "==",
+                  "value": "forge:garnet_boots"
+                }
+              ]
+            },
+            "event": "forge:garnet_event"
+          },
+          {
+            "filters": {
+              "all_of": [
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "head",
+                  "operator": "==",
+                  "value": "forge:topaz_helmet"
+                },
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "torso",
+                  "operator": "==",
+                  "value": "forge:topaz_chestplate"
+                },
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "leg",
+                  "operator": "==",
+                  "value": "forge:topaz_leggings"
+                },
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "feet",
+                  "operator": "==",
+                  "value": "forge:topaz_boots"
+                }
+              ]
+            },
+            "event": "forge:topaz_event"
           }
         ]
       }

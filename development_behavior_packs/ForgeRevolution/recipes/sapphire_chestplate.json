@@ -1,0 +1,24 @@
+{
+    "format_version": "1.21.50",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "forge:sapphire_chestplate"
+        },
+        "tags": ["crafting_table"],
+        "pattern": [
+            "xxx",
+            "xyx",
+            "xxx"
+        ],
+        "key": {
+            "x": "forge:sapphire",
+            "y": "forge:chestplate_mold"
+        },
+        "unlock": [
+            {
+                "item": "forge:sapphire"
+            }
+        ],
+        "result": "forge:sapphire_chestplate"
+    }
+}
