@@ -250,6 +250,42 @@
         },
         "selenite_boots": {
             "textures": "textures/items/selenite_boots.png"
+        },
+        "fluorite_helmet": {
+            "textures": "textures/items/fluorite_helmet.png"
+        },
+        "fluorite_chestplate": {
+            "textures": "textures/items/fluorite_chestplate.png"
+        },
+        "fluorite_leggings": {
+            "textures": "textures/items/fluorite_leggings.png"
+        },
+        "fluorite_boots": {
+            "textures": "textures/items/fluorite_boots.png"
+        },
+        "emerald_helmet": {
+            "textures": "textures/items/emerald_helmet.png"
+        },
+        "emerald_chestplate": {
+            "textures": "textures/items/emerald_chestplate.png"
+        },
+        "emerald_leggings": {
+            "textures": "textures/items/emerald_leggings.png"
+        },
+        "emerald_boots": {
+            "textures": "textures/items/emerald_boots.png"
+        },
+        "amethyst_helmet": {
+            "textures": "textures/items/amethyst_helmet.png"
+        },
+        "amethyst_chestplate": {
+            "textures": "textures/items/amethyst_chestplate.png"
+        },
+        "amethyst_leggings": {
+            "textures": "textures/items/amethyst_leggings.png"
+        },
+        "amethyst_boots": {
+            "textures": "textures/items/amethyst_boots.png"
         }
     }
 }

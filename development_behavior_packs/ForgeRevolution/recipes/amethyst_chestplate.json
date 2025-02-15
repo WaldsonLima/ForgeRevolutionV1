@@ -1,0 +1,24 @@
+{
+    "format_version": "1.21.50",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "forge:amethyst_chestplate"
+        },
+        "tags": ["crafting_table"],
+        "pattern": [
+            "xxx",
+            "xyx",
+            "xxx"
+        ],
+        "key": {
+            "x": "minecraft:amethyst_shard",
+            "y": "forge:chestplate_mold"
+        },
+        "unlock": [
+            {
+                "item": "minecraft:amethyst_shard"
+            }
+        ],
+        "result": "forge:amethyst_chestplate"
+    }
+}

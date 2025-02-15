@@ -1,0 +1,38 @@
+{
+	"format_version": "1.20.50",
+	"minecraft:item": {
+		"description": {
+			"identifier": "forge:fluorite_leggings",
+			"menu_category": {
+				"category": "equipment",
+				"group": "itemGroup.name.leggings"
+			}
+		},
+		"components": {
+			"minecraft:max_stack_size": 1,
+			"minecraft:icon": "fluorite_leggings",
+            "minecraft:display_name": {
+                "value": "tile.forge:fluorite_leggings.name"
+            },
+			"minecraft:wearable": {
+				"slot": "slot.armor.legs",
+				"protection": 6
+			},
+			"minecraft:enchantable": {
+				"slot": "armor_legs",
+				"value": 25
+			},
+			"minecraft:durability": {
+				"max_durability": 595
+			},
+			"minecraft:repairable": {
+				"repair_items": [
+					{
+						"items": ["forge:fluorite"],
+						"repair_amount": 124
+					}
+				]
+			}
+		}
+	}
+}

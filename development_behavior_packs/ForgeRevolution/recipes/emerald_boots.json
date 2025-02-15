@@ -1,0 +1,24 @@
+{
+    "format_version": "1.21.50",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "forge:emerald_boots"
+        },
+        "tags": ["crafting_table"],
+        "pattern": [
+            "xxx",
+            "xyx",
+            "xxx"
+        ],
+        "key": {
+            "x": "minecraft:emerald",
+            "y": "forge:boots_mold"
+        },
+        "unlock": [
+            {
+                "item": "minecraft:emerald"
+            }
+        ],
+        "result": "forge:emerald_boots"
+    }
+}
