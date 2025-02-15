@@ -238,6 +238,18 @@
         },
         "topaz_boots": {
             "textures": "textures/items/topaz_boots.png"
+        },
+        "selenite_helmet": {
+            "textures": "textures/items/selenite_helmet.png"
+        },
+        "selenite_chestplate": {
+            "textures": "textures/items/selenite_chestplate.png"
+        },
+        "selenite_leggings": {
+            "textures": "textures/items/selenite_leggings.png"
+        },
+        "selenite_boots": {
+            "textures": "textures/items/selenite_boots.png"
         }
     }
 }

@@ -1,0 +1,24 @@
+{
+    "format_version": "1.21.50",
+    "minecraft:recipe_shaped": {
+        "description": {
+            "identifier": "forge:selenite_leggings"
+        },
+        "tags": ["crafting_table"],
+        "pattern": [
+            "xxx",
+            "xyx",
+            "xxx"
+        ],
+        "key": {
+            "x": "forge:selenite",
+            "y": "forge:leggings_mold"
+        },
+        "unlock": [
+            {
+                "item": "forge:selenite"
+            }
+        ],
+        "result": "forge:selenite_leggings"
+    }
+}
