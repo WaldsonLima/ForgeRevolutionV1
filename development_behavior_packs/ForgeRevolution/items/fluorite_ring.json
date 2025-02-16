@@ -16,10 +16,7 @@
             },
             "minecraft:allow_off_hand": {
                 "value": true
-            },
-            "minecraft:custom_components": [
-                "forge:fluorite_ring"
-            ]
+            }
         }
     }
 }

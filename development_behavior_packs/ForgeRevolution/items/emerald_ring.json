@@ -16,7 +16,18 @@
             },
             "minecraft:allow_off_hand": {
                 "value": true
-            }
+            },
+            "minecraft:use_modifiers": {
+                "movement_modifier": 0.5,
+                "use_duration": 1.0
+            },
+            "minecraft:cooldown": {
+                "category": "emerald_ring",
+                "duration": 300
+            },
+            "minecraft:custom_components": [
+                "forge:emerald_ring"
+            ]
         }
     }
 }

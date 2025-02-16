@@ -22,7 +22,7 @@
                 "use_duration": 1.0
             },
             "minecraft:cooldown": {
-                "category": "equipment",
+                "category": "amethyst_ring",
                 "duration": 30
             },
             "minecraft:custom_components": [

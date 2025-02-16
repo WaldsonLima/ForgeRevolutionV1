@@ -204,20 +204,6 @@
                   "subject": "self",
                   "domain": "hand",
                   "operator": "==",
-                  "value": "forge:emerald_ring"
-                }
-              ]
-            },
-            "event": "forge:emerald_event"
-          },
-          {
-            "filters": {
-              "all_of": [
-                {
-                  "test": "has_equipment",
-                  "subject": "self",
-                  "domain": "hand",
-                  "operator": "==",
                   "value": "forge:fluorite_ring"
                 }
               ]
@@ -601,6 +587,76 @@
               ]
             },
             "event": "forge:topaz_event"
+          },
+          {
+            "filters": {
+              "all_of": [
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "head",
+                  "operator": "==",
+                  "value": "forge:fluorite_helmet"
+                },
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "torso",
+                  "operator": "==",
+                  "value": "forge:fluorite_chestplate"
+                },
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "leg",
+                  "operator": "==",
+                  "value": "forge:fluorite_leggings"
+                },
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "feet",
+                  "operator": "==",
+                  "value": "forge:fluorite_boots"
+                }
+              ]
+            },
+            "event": "forge:fluorite_event"
+          },
+          {
+            "filters": {
+              "all_of": [
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "head",
+                  "operator": "==",
+                  "value": "forge:selenite_helmet"
+                },
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "torso",
+                  "operator": "==",
+                  "value": "forge:selenite_chestplate"
+                },
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "leg",
+                  "operator": "==",
+                  "value": "forge:selenite_leggings"
+                },
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "feet",
+                  "operator": "==",
+                  "value": "forge:selenite_boots"
+                }
+              ]
+            },
+            "event": "forge:selenite_event"
           }
         ]
       }
@@ -621,15 +677,6 @@
             {
               "queue_command": {
                   "command": "effect @s water_breathing 2 1"
-              }
-            }
-          ]
-      },
-      "forge:emerald_event": {
-        "sequence": [
-            {
-              "queue_command": {
-                  "command": "effect @s resistance 2 1"
               }
             }
           ]
@@ -656,7 +703,7 @@
         "sequence": [
             {
               "queue_command": {
-                  "command": "effect @s invisibility 2 1"
+                  "command": "effect @s resistance 2 1"
               }
             }
           ]

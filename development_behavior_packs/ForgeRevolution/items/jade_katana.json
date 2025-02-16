@@ -31,10 +31,7 @@
 						"repair_amount": 62
 					}
 				]
-			},
-			"minecraft:custom_components": [
-                "forge:jade_katana"
-            ]
+			}
 		}
     }
 }
