@@ -26,7 +26,7 @@
     "capabilities": ["script_eval"],
     "dependencies": [
         {
-            "uuid": "4240f5ad-e4da-4e98-9731-f26b7f4079be",
+            "uuid": "e984c2b4-0df1-4c8c-8dda-ba11de9bdd2a",
             "version": [1, 0, 0]
         },
         {

@@ -28,7 +28,7 @@
 			"minecraft:repairable": {
 				"repair_items": [
 					{
-						"items": ["forge:emerald"],
+						"items": ["minecraft:emerald"],
 						"repair_amount": 130
 					}
 				]

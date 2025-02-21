@@ -28,7 +28,7 @@
 			"minecraft:repairable": {
 				"repair_items": [
 					{
-						"items": ["forge:amethyst"],
+						"items": ["minecraft:amethyst_shard"],
 						"repair_amount": 124
 					}
 				]
